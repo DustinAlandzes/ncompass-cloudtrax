@@ -1,0 +1,35 @@
+<html>
+  <head>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.4/css/bootstrap.min.css" integrity="sha384-2hfp1SzUoho7/TsGGGDaFdsuuDL0LX2hnUp6VkX3CUQ2K4K+xjboZdsXyp4oUHZj" crossorigin="anonymous">
+  </head>
+  <body>
+    <table class="table">
+      <thead>
+        <tr>
+          <th>ID</th>
+          <th>Node Mac Address</th>
+          <th>Client Mac Address</th>
+          <th>Count</th>
+          <th>Min/Average/Max Signal</th>
+          <th>First Seen</th>
+          <th>Last Seen</th>
+          <th>Associated</th>
+        </tr>
+      </thead>
+      <tbody>
+        {% for probe in probes %}
+        <tr>
+          <td>{{probe.id}}</td>
+          <td>{{probe.node_mac}}</td>
+          <td>{{probe.mac}}</td>
+          <td>{{probe.count}}</td>
+          <td>{{probe.min_signal}}/{{probe.avg_signal}}/{{probe.max_signal}}</td>
+          <td>{{probe.first_seen}}</td>
+          <td>{{probe.last_seen}}</td>
+          <td>{{probe.associated}}</td>
+        </tr>
+        {% endfor %}
+      </tbody>
+    </table>
+  </body>
+</html>

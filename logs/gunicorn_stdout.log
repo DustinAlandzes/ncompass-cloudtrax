@@ -1,0 +1,2334 @@
+[2017-03-15 17:18:18 +0000] [12635] [INFO] Starting gunicorn 19.6.0
+[2017-03-15 17:18:18 +0000] [12635] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:18:18 +0000] [12635] [ERROR] Retrying in 1 second.
+[2017-03-15 17:18:19 +0000] [12635] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:18:19 +0000] [12635] [ERROR] Retrying in 1 second.
+[2017-03-15 17:18:20 +0000] [12635] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:18:20 +0000] [12635] [ERROR] Retrying in 1 second.
+[2017-03-15 17:18:21 +0000] [12635] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:18:21 +0000] [12635] [ERROR] Retrying in 1 second.
+[2017-03-15 17:18:22 +0000] [12635] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:18:22 +0000] [12635] [ERROR] Retrying in 1 second.
+[2017-03-15 17:18:23 +0000] [12635] [ERROR] Can't connect to ('127.0.0.1', 8001)
+[2017-03-15 17:18:25 +0000] [12639] [INFO] Starting gunicorn 19.6.0
+[2017-03-15 17:18:25 +0000] [12639] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:18:25 +0000] [12639] [ERROR] Retrying in 1 second.
+[2017-03-15 17:18:26 +0000] [12639] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:18:26 +0000] [12639] [ERROR] Retrying in 1 second.
+[2017-03-15 17:18:27 +0000] [12639] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:18:27 +0000] [12639] [ERROR] Retrying in 1 second.
+[2017-03-15 17:18:28 +0000] [12639] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:18:28 +0000] [12639] [ERROR] Retrying in 1 second.
+[2017-03-15 17:18:29 +0000] [12639] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:18:29 +0000] [12639] [ERROR] Retrying in 1 second.
+[2017-03-15 17:18:30 +0000] [12639] [ERROR] Can't connect to ('127.0.0.1', 8001)
+[2017-03-15 17:18:32 +0000] [12685] [INFO] Starting gunicorn 19.6.0
+[2017-03-15 17:18:32 +0000] [12685] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:18:32 +0000] [12685] [ERROR] Retrying in 1 second.
+[2017-03-15 17:18:33 +0000] [12685] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:18:33 +0000] [12685] [ERROR] Retrying in 1 second.
+[2017-03-15 17:18:34 +0000] [12685] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:18:34 +0000] [12685] [ERROR] Retrying in 1 second.
+[2017-03-15 17:18:35 +0000] [12685] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:18:35 +0000] [12685] [ERROR] Retrying in 1 second.
+[2017-03-15 17:18:36 +0000] [12685] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:18:36 +0000] [12685] [ERROR] Retrying in 1 second.
+[2017-03-15 17:18:37 +0000] [12685] [ERROR] Can't connect to ('127.0.0.1', 8001)
+[2017-03-15 17:18:38 +0000] [12690] [INFO] Starting gunicorn 19.6.0
+[2017-03-15 17:18:38 +0000] [12690] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:18:38 +0000] [12690] [ERROR] Retrying in 1 second.
+[2017-03-15 17:18:39 +0000] [12690] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:18:39 +0000] [12690] [ERROR] Retrying in 1 second.
+[2017-03-15 17:18:40 +0000] [12690] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:18:40 +0000] [12690] [ERROR] Retrying in 1 second.
+[2017-03-15 17:18:41 +0000] [12690] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:18:41 +0000] [12690] [ERROR] Retrying in 1 second.
+[2017-03-15 17:18:42 +0000] [12690] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:18:42 +0000] [12690] [ERROR] Retrying in 1 second.
+[2017-03-15 17:18:43 +0000] [12690] [ERROR] Can't connect to ('127.0.0.1', 8001)
+[2017-03-15 17:18:45 +0000] [12696] [INFO] Starting gunicorn 19.6.0
+[2017-03-15 17:18:45 +0000] [12696] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:18:45 +0000] [12696] [ERROR] Retrying in 1 second.
+[2017-03-15 17:18:46 +0000] [12696] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:18:46 +0000] [12696] [ERROR] Retrying in 1 second.
+[2017-03-15 17:18:47 +0000] [12696] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:18:47 +0000] [12696] [ERROR] Retrying in 1 second.
+[2017-03-15 17:18:48 +0000] [12696] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:18:48 +0000] [12696] [ERROR] Retrying in 1 second.
+[2017-03-15 17:18:49 +0000] [12696] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:18:49 +0000] [12696] [ERROR] Retrying in 1 second.
+[2017-03-15 17:18:50 +0000] [12696] [ERROR] Can't connect to ('127.0.0.1', 8001)
+[2017-03-15 17:18:52 +0000] [12741] [INFO] Starting gunicorn 19.6.0
+[2017-03-15 17:18:52 +0000] [12741] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:18:52 +0000] [12741] [ERROR] Retrying in 1 second.
+[2017-03-15 17:18:53 +0000] [12741] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:18:53 +0000] [12741] [ERROR] Retrying in 1 second.
+[2017-03-15 17:18:54 +0000] [12741] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:18:54 +0000] [12741] [ERROR] Retrying in 1 second.
+[2017-03-15 17:18:55 +0000] [12741] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:18:55 +0000] [12741] [ERROR] Retrying in 1 second.
+[2017-03-15 17:18:56 +0000] [12741] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:18:56 +0000] [12741] [ERROR] Retrying in 1 second.
+[2017-03-15 17:18:57 +0000] [12741] [ERROR] Can't connect to ('127.0.0.1', 8001)
+[2017-03-15 17:19:00 +0000] [12750] [INFO] Starting gunicorn 19.6.0
+[2017-03-15 17:19:00 +0000] [12750] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:19:00 +0000] [12750] [ERROR] Retrying in 1 second.
+[2017-03-15 17:19:01 +0000] [12750] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:19:01 +0000] [12750] [ERROR] Retrying in 1 second.
+[2017-03-15 17:19:02 +0000] [12750] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:19:02 +0000] [12750] [ERROR] Retrying in 1 second.
+[2017-03-15 17:19:03 +0000] [12750] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:19:03 +0000] [12750] [ERROR] Retrying in 1 second.
+[2017-03-15 17:19:04 +0000] [12750] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:19:04 +0000] [12750] [ERROR] Retrying in 1 second.
+[2017-03-15 17:19:05 +0000] [12750] [ERROR] Can't connect to ('127.0.0.1', 8001)
+[2017-03-15 17:19:07 +0000] [12765] [INFO] Starting gunicorn 19.6.0
+[2017-03-15 17:19:07 +0000] [12765] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:19:07 +0000] [12765] [ERROR] Retrying in 1 second.
+[2017-03-15 17:19:08 +0000] [12765] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:19:08 +0000] [12765] [ERROR] Retrying in 1 second.
+[2017-03-15 17:19:09 +0000] [12765] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:19:09 +0000] [12765] [ERROR] Retrying in 1 second.
+[2017-03-15 17:19:10 +0000] [12765] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:19:10 +0000] [12765] [ERROR] Retrying in 1 second.
+[2017-03-15 17:19:11 +0000] [12765] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:19:11 +0000] [12765] [ERROR] Retrying in 1 second.
+[2017-03-15 17:19:12 +0000] [12765] [ERROR] Can't connect to ('127.0.0.1', 8001)
+[2017-03-15 17:19:15 +0000] [12807] [INFO] Starting gunicorn 19.6.0
+[2017-03-15 17:19:15 +0000] [12807] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:19:15 +0000] [12807] [ERROR] Retrying in 1 second.
+[2017-03-15 17:19:16 +0000] [12807] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:19:16 +0000] [12807] [ERROR] Retrying in 1 second.
+[2017-03-15 17:19:17 +0000] [12807] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:19:17 +0000] [12807] [ERROR] Retrying in 1 second.
+[2017-03-15 17:19:18 +0000] [12807] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:19:18 +0000] [12807] [ERROR] Retrying in 1 second.
+[2017-03-15 17:19:19 +0000] [12807] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:19:19 +0000] [12807] [ERROR] Retrying in 1 second.
+[2017-03-15 17:19:20 +0000] [12807] [ERROR] Can't connect to ('127.0.0.1', 8001)
+[2017-03-15 17:19:22 +0000] [12869] [INFO] Starting gunicorn 19.6.0
+[2017-03-15 17:19:22 +0000] [12869] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:19:22 +0000] [12869] [ERROR] Retrying in 1 second.
+[2017-03-15 17:19:23 +0000] [12869] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:19:23 +0000] [12869] [ERROR] Retrying in 1 second.
+[2017-03-15 17:19:24 +0000] [12869] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:19:24 +0000] [12869] [ERROR] Retrying in 1 second.
+[2017-03-15 17:19:25 +0000] [12869] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:19:25 +0000] [12869] [ERROR] Retrying in 1 second.
+[2017-03-15 17:19:26 +0000] [12869] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:19:26 +0000] [12869] [ERROR] Retrying in 1 second.
+[2017-03-15 17:19:27 +0000] [12869] [ERROR] Can't connect to ('127.0.0.1', 8001)
+[2017-03-15 17:19:28 +0000] [12918] [INFO] Starting gunicorn 19.6.0
+[2017-03-15 17:19:28 +0000] [12918] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:19:28 +0000] [12918] [ERROR] Retrying in 1 second.
+[2017-03-15 17:19:29 +0000] [12918] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:19:29 +0000] [12918] [ERROR] Retrying in 1 second.
+[2017-03-15 17:19:30 +0000] [12918] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:19:30 +0000] [12918] [ERROR] Retrying in 1 second.
+[2017-03-15 17:19:31 +0000] [12918] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:19:31 +0000] [12918] [ERROR] Retrying in 1 second.
+[2017-03-15 17:19:32 +0000] [12918] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:19:32 +0000] [12918] [ERROR] Retrying in 1 second.
+[2017-03-15 17:19:33 +0000] [12918] [ERROR] Can't connect to ('127.0.0.1', 8001)
+[2017-03-15 17:19:35 +0000] [12921] [INFO] Starting gunicorn 19.6.0
+[2017-03-15 17:19:35 +0000] [12921] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:19:35 +0000] [12921] [ERROR] Retrying in 1 second.
+[2017-03-15 17:19:36 +0000] [12921] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:19:36 +0000] [12921] [ERROR] Retrying in 1 second.
+[2017-03-15 17:19:37 +0000] [12921] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:19:37 +0000] [12921] [ERROR] Retrying in 1 second.
+[2017-03-15 17:19:38 +0000] [12921] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:19:38 +0000] [12921] [ERROR] Retrying in 1 second.
+[2017-03-15 17:19:39 +0000] [12921] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:19:39 +0000] [12921] [ERROR] Retrying in 1 second.
+[2017-03-15 17:19:40 +0000] [12921] [ERROR] Can't connect to ('127.0.0.1', 8001)
+[2017-03-15 17:19:42 +0000] [12924] [INFO] Starting gunicorn 19.6.0
+[2017-03-15 17:19:42 +0000] [12924] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:19:42 +0000] [12924] [ERROR] Retrying in 1 second.
+[2017-03-15 17:19:43 +0000] [12924] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:19:43 +0000] [12924] [ERROR] Retrying in 1 second.
+[2017-03-15 17:19:44 +0000] [12924] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:19:44 +0000] [12924] [ERROR] Retrying in 1 second.
+[2017-03-15 17:19:45 +0000] [12924] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:19:45 +0000] [12924] [ERROR] Retrying in 1 second.
+[2017-03-15 17:19:46 +0000] [12924] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:19:46 +0000] [12924] [ERROR] Retrying in 1 second.
+[2017-03-15 17:19:47 +0000] [12924] [ERROR] Can't connect to ('127.0.0.1', 8001)
+[2017-03-15 17:19:49 +0000] [12968] [INFO] Starting gunicorn 19.6.0
+[2017-03-15 17:19:49 +0000] [12968] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:19:49 +0000] [12968] [ERROR] Retrying in 1 second.
+[2017-03-15 17:19:50 +0000] [12968] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:19:50 +0000] [12968] [ERROR] Retrying in 1 second.
+[2017-03-15 17:19:51 +0000] [12968] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:19:51 +0000] [12968] [ERROR] Retrying in 1 second.
+[2017-03-15 17:19:52 +0000] [12968] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:19:52 +0000] [12968] [ERROR] Retrying in 1 second.
+[2017-03-15 17:19:53 +0000] [12968] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:19:53 +0000] [12968] [ERROR] Retrying in 1 second.
+[2017-03-15 17:19:54 +0000] [12968] [ERROR] Can't connect to ('127.0.0.1', 8001)
+[2017-03-15 17:19:55 +0000] [12971] [INFO] Starting gunicorn 19.6.0
+[2017-03-15 17:19:55 +0000] [12971] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:19:55 +0000] [12971] [ERROR] Retrying in 1 second.
+[2017-03-15 17:19:56 +0000] [12971] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:19:56 +0000] [12971] [ERROR] Retrying in 1 second.
+[2017-03-15 17:19:57 +0000] [12971] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:19:57 +0000] [12971] [ERROR] Retrying in 1 second.
+[2017-03-15 17:19:58 +0000] [12971] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:19:58 +0000] [12971] [ERROR] Retrying in 1 second.
+[2017-03-15 17:19:59 +0000] [12971] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:19:59 +0000] [12971] [ERROR] Retrying in 1 second.
+[2017-03-15 17:20:00 +0000] [12971] [ERROR] Can't connect to ('127.0.0.1', 8001)
+[2017-03-15 17:20:03 +0000] [12979] [INFO] Starting gunicorn 19.6.0
+[2017-03-15 17:20:03 +0000] [12979] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:20:03 +0000] [12979] [ERROR] Retrying in 1 second.
+[2017-03-15 17:20:04 +0000] [12979] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:20:04 +0000] [12979] [ERROR] Retrying in 1 second.
+[2017-03-15 17:20:05 +0000] [12979] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:20:05 +0000] [12979] [ERROR] Retrying in 1 second.
+[2017-03-15 17:20:06 +0000] [12979] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:20:06 +0000] [12979] [ERROR] Retrying in 1 second.
+[2017-03-15 17:20:07 +0000] [12979] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:20:07 +0000] [12979] [ERROR] Retrying in 1 second.
+[2017-03-15 17:20:08 +0000] [12979] [ERROR] Can't connect to ('127.0.0.1', 8001)
+[2017-03-15 17:20:10 +0000] [13024] [INFO] Starting gunicorn 19.6.0
+[2017-03-15 17:20:10 +0000] [13024] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:20:10 +0000] [13024] [ERROR] Retrying in 1 second.
+[2017-03-15 17:20:11 +0000] [13024] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:20:11 +0000] [13024] [ERROR] Retrying in 1 second.
+[2017-03-15 17:20:12 +0000] [13024] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:20:12 +0000] [13024] [ERROR] Retrying in 1 second.
+[2017-03-15 17:20:13 +0000] [13024] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:20:13 +0000] [13024] [ERROR] Retrying in 1 second.
+[2017-03-15 17:20:14 +0000] [13024] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:20:14 +0000] [13024] [ERROR] Retrying in 1 second.
+[2017-03-15 17:20:15 +0000] [13024] [ERROR] Can't connect to ('127.0.0.1', 8001)
+[2017-03-15 17:20:17 +0000] [13027] [INFO] Starting gunicorn 19.6.0
+[2017-03-15 17:20:17 +0000] [13027] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:20:17 +0000] [13027] [ERROR] Retrying in 1 second.
+[2017-03-15 17:20:18 +0000] [13027] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:20:18 +0000] [13027] [ERROR] Retrying in 1 second.
+[2017-03-15 17:20:19 +0000] [13027] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:20:19 +0000] [13027] [ERROR] Retrying in 1 second.
+[2017-03-15 17:20:20 +0000] [13027] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:20:20 +0000] [13027] [ERROR] Retrying in 1 second.
+[2017-03-15 17:20:21 +0000] [13027] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:20:21 +0000] [13027] [ERROR] Retrying in 1 second.
+[2017-03-15 17:20:22 +0000] [13027] [ERROR] Can't connect to ('127.0.0.1', 8001)
+[2017-03-15 17:20:23 +0000] [13032] [INFO] Starting gunicorn 19.6.0
+[2017-03-15 17:20:23 +0000] [13032] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:20:23 +0000] [13032] [ERROR] Retrying in 1 second.
+[2017-03-15 17:20:24 +0000] [13032] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:20:24 +0000] [13032] [ERROR] Retrying in 1 second.
+[2017-03-15 17:20:25 +0000] [13032] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:20:25 +0000] [13032] [ERROR] Retrying in 1 second.
+[2017-03-15 17:20:26 +0000] [13032] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:20:26 +0000] [13032] [ERROR] Retrying in 1 second.
+[2017-03-15 17:20:27 +0000] [13032] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:20:27 +0000] [13032] [ERROR] Retrying in 1 second.
+[2017-03-15 17:20:28 +0000] [13032] [ERROR] Can't connect to ('127.0.0.1', 8001)
+[2017-03-15 17:20:30 +0000] [13074] [INFO] Starting gunicorn 19.6.0
+[2017-03-15 17:20:30 +0000] [13074] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:20:30 +0000] [13074] [ERROR] Retrying in 1 second.
+[2017-03-15 17:20:31 +0000] [13074] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:20:31 +0000] [13074] [ERROR] Retrying in 1 second.
+[2017-03-15 17:20:32 +0000] [13074] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:20:32 +0000] [13074] [ERROR] Retrying in 1 second.
+[2017-03-15 17:20:33 +0000] [13074] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:20:33 +0000] [13074] [ERROR] Retrying in 1 second.
+[2017-03-15 17:20:34 +0000] [13074] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:20:34 +0000] [13074] [ERROR] Retrying in 1 second.
+[2017-03-15 17:20:35 +0000] [13074] [ERROR] Can't connect to ('127.0.0.1', 8001)
+[2017-03-15 17:20:37 +0000] [13077] [INFO] Starting gunicorn 19.6.0
+[2017-03-15 17:20:37 +0000] [13077] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:20:37 +0000] [13077] [ERROR] Retrying in 1 second.
+[2017-03-15 17:20:38 +0000] [13077] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:20:38 +0000] [13077] [ERROR] Retrying in 1 second.
+[2017-03-15 17:20:39 +0000] [13077] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:20:39 +0000] [13077] [ERROR] Retrying in 1 second.
+[2017-03-15 17:20:40 +0000] [13077] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:20:40 +0000] [13077] [ERROR] Retrying in 1 second.
+[2017-03-15 17:20:41 +0000] [13077] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:20:41 +0000] [13077] [ERROR] Retrying in 1 second.
+[2017-03-15 17:20:42 +0000] [13077] [ERROR] Can't connect to ('127.0.0.1', 8001)
+[2017-03-15 17:20:44 +0000] [13127] [INFO] Starting gunicorn 19.6.0
+[2017-03-15 17:20:44 +0000] [13127] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:20:44 +0000] [13127] [ERROR] Retrying in 1 second.
+[2017-03-15 17:20:45 +0000] [13127] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:20:45 +0000] [13127] [ERROR] Retrying in 1 second.
+[2017-03-15 17:20:46 +0000] [13127] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:20:46 +0000] [13127] [ERROR] Retrying in 1 second.
+[2017-03-15 17:20:47 +0000] [13127] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:20:47 +0000] [13127] [ERROR] Retrying in 1 second.
+[2017-03-15 17:20:48 +0000] [13127] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:20:48 +0000] [13127] [ERROR] Retrying in 1 second.
+[2017-03-15 17:20:49 +0000] [13127] [ERROR] Can't connect to ('127.0.0.1', 8001)
+[2017-03-15 17:20:50 +0000] [13130] [INFO] Starting gunicorn 19.6.0
+[2017-03-15 17:20:50 +0000] [13130] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:20:50 +0000] [13130] [ERROR] Retrying in 1 second.
+[2017-03-15 17:20:51 +0000] [13130] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:20:51 +0000] [13130] [ERROR] Retrying in 1 second.
+[2017-03-15 17:20:52 +0000] [13130] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:20:52 +0000] [13130] [ERROR] Retrying in 1 second.
+[2017-03-15 17:20:53 +0000] [13130] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:20:53 +0000] [13130] [ERROR] Retrying in 1 second.
+[2017-03-15 17:20:54 +0000] [13130] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:20:54 +0000] [13130] [ERROR] Retrying in 1 second.
+[2017-03-15 17:20:55 +0000] [13130] [ERROR] Can't connect to ('127.0.0.1', 8001)
+[2017-03-15 17:20:57 +0000] [13133] [INFO] Starting gunicorn 19.6.0
+[2017-03-15 17:20:57 +0000] [13133] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:20:57 +0000] [13133] [ERROR] Retrying in 1 second.
+[2017-03-15 17:20:58 +0000] [13133] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:20:58 +0000] [13133] [ERROR] Retrying in 1 second.
+[2017-03-15 17:20:59 +0000] [13133] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:20:59 +0000] [13133] [ERROR] Retrying in 1 second.
+[2017-03-15 17:21:00 +0000] [13133] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:21:00 +0000] [13133] [ERROR] Retrying in 1 second.
+[2017-03-15 17:21:01 +0000] [13133] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:21:01 +0000] [13133] [ERROR] Retrying in 1 second.
+[2017-03-15 17:21:02 +0000] [13133] [ERROR] Can't connect to ('127.0.0.1', 8001)
+[2017-03-15 17:21:04 +0000] [13183] [INFO] Starting gunicorn 19.6.0
+[2017-03-15 17:21:04 +0000] [13183] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:21:04 +0000] [13183] [ERROR] Retrying in 1 second.
+[2017-03-15 17:21:05 +0000] [13183] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:21:05 +0000] [13183] [ERROR] Retrying in 1 second.
+[2017-03-15 17:21:06 +0000] [13183] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:21:06 +0000] [13183] [ERROR] Retrying in 1 second.
+[2017-03-15 17:21:07 +0000] [13183] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:21:07 +0000] [13183] [ERROR] Retrying in 1 second.
+[2017-03-15 17:21:08 +0000] [13183] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:21:08 +0000] [13183] [ERROR] Retrying in 1 second.
+[2017-03-15 17:21:09 +0000] [13183] [ERROR] Can't connect to ('127.0.0.1', 8001)
+[2017-03-15 17:21:11 +0000] [13186] [INFO] Starting gunicorn 19.6.0
+[2017-03-15 17:21:11 +0000] [13186] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:21:11 +0000] [13186] [ERROR] Retrying in 1 second.
+[2017-03-15 17:21:12 +0000] [13186] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:21:12 +0000] [13186] [ERROR] Retrying in 1 second.
+[2017-03-15 17:21:13 +0000] [13186] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:21:13 +0000] [13186] [ERROR] Retrying in 1 second.
+[2017-03-15 17:21:14 +0000] [13186] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:21:14 +0000] [13186] [ERROR] Retrying in 1 second.
+[2017-03-15 17:21:15 +0000] [13186] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:21:15 +0000] [13186] [ERROR] Retrying in 1 second.
+[2017-03-15 17:21:16 +0000] [13186] [ERROR] Can't connect to ('127.0.0.1', 8001)
+[2017-03-15 17:21:18 +0000] [13189] [INFO] Starting gunicorn 19.6.0
+[2017-03-15 17:21:18 +0000] [13189] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:21:18 +0000] [13189] [ERROR] Retrying in 1 second.
+[2017-03-15 17:21:19 +0000] [13189] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:21:19 +0000] [13189] [ERROR] Retrying in 1 second.
+[2017-03-15 17:21:20 +0000] [13189] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:21:20 +0000] [13189] [ERROR] Retrying in 1 second.
+[2017-03-15 17:21:21 +0000] [13189] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:21:21 +0000] [13189] [ERROR] Retrying in 1 second.
+[2017-03-15 17:21:22 +0000] [13189] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:21:22 +0000] [13189] [ERROR] Retrying in 1 second.
+[2017-03-15 17:21:23 +0000] [13189] [ERROR] Can't connect to ('127.0.0.1', 8001)
+[2017-03-15 17:21:25 +0000] [13233] [INFO] Starting gunicorn 19.6.0
+[2017-03-15 17:21:25 +0000] [13233] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:21:25 +0000] [13233] [ERROR] Retrying in 1 second.
+[2017-03-15 17:21:26 +0000] [13233] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:21:26 +0000] [13233] [ERROR] Retrying in 1 second.
+[2017-03-15 17:21:27 +0000] [13233] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:21:27 +0000] [13233] [ERROR] Retrying in 1 second.
+[2017-03-15 17:21:28 +0000] [13233] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:21:28 +0000] [13233] [ERROR] Retrying in 1 second.
+[2017-03-15 17:21:29 +0000] [13233] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:21:29 +0000] [13233] [ERROR] Retrying in 1 second.
+[2017-03-15 17:21:30 +0000] [13233] [ERROR] Can't connect to ('127.0.0.1', 8001)
+[2017-03-15 17:21:31 +0000] [13236] [INFO] Starting gunicorn 19.6.0
+[2017-03-15 17:21:31 +0000] [13236] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:21:31 +0000] [13236] [ERROR] Retrying in 1 second.
+[2017-03-15 17:21:32 +0000] [13236] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:21:32 +0000] [13236] [ERROR] Retrying in 1 second.
+[2017-03-15 17:21:33 +0000] [13236] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:21:33 +0000] [13236] [ERROR] Retrying in 1 second.
+[2017-03-15 17:21:34 +0000] [13236] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:21:34 +0000] [13236] [ERROR] Retrying in 1 second.
+[2017-03-15 17:21:35 +0000] [13236] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:21:35 +0000] [13236] [ERROR] Retrying in 1 second.
+[2017-03-15 17:21:36 +0000] [13236] [ERROR] Can't connect to ('127.0.0.1', 8001)
+[2017-03-15 17:21:38 +0000] [13240] [INFO] Starting gunicorn 19.6.0
+[2017-03-15 17:21:38 +0000] [13240] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:21:38 +0000] [13240] [ERROR] Retrying in 1 second.
+[2017-03-15 17:21:39 +0000] [13240] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:21:39 +0000] [13240] [ERROR] Retrying in 1 second.
+[2017-03-15 17:21:40 +0000] [13240] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:21:40 +0000] [13240] [ERROR] Retrying in 1 second.
+[2017-03-15 17:21:41 +0000] [13240] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:21:41 +0000] [13240] [ERROR] Retrying in 1 second.
+[2017-03-15 17:21:42 +0000] [13240] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:21:42 +0000] [13240] [ERROR] Retrying in 1 second.
+[2017-03-15 17:21:43 +0000] [13240] [ERROR] Can't connect to ('127.0.0.1', 8001)
+[2017-03-15 17:21:45 +0000] [13283] [INFO] Starting gunicorn 19.6.0
+[2017-03-15 17:21:45 +0000] [13283] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:21:45 +0000] [13283] [ERROR] Retrying in 1 second.
+[2017-03-15 17:21:46 +0000] [13283] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:21:46 +0000] [13283] [ERROR] Retrying in 1 second.
+[2017-03-15 17:21:47 +0000] [13283] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:21:47 +0000] [13283] [ERROR] Retrying in 1 second.
+[2017-03-15 17:21:48 +0000] [13283] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:21:48 +0000] [13283] [ERROR] Retrying in 1 second.
+[2017-03-15 17:21:49 +0000] [13283] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:21:49 +0000] [13283] [ERROR] Retrying in 1 second.
+[2017-03-15 17:21:50 +0000] [13283] [ERROR] Can't connect to ('127.0.0.1', 8001)
+[2017-03-15 17:21:51 +0000] [13286] [INFO] Starting gunicorn 19.6.0
+[2017-03-15 17:21:51 +0000] [13286] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:21:51 +0000] [13286] [ERROR] Retrying in 1 second.
+[2017-03-15 17:21:52 +0000] [13286] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:21:52 +0000] [13286] [ERROR] Retrying in 1 second.
+[2017-03-15 17:21:53 +0000] [13286] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:21:53 +0000] [13286] [ERROR] Retrying in 1 second.
+[2017-03-15 17:21:54 +0000] [13286] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:21:54 +0000] [13286] [ERROR] Retrying in 1 second.
+[2017-03-15 17:21:55 +0000] [13286] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:21:55 +0000] [13286] [ERROR] Retrying in 1 second.
+[2017-03-15 17:21:56 +0000] [13286] [ERROR] Can't connect to ('127.0.0.1', 8001)
+[2017-03-15 17:21:58 +0000] [13290] [INFO] Starting gunicorn 19.6.0
+[2017-03-15 17:21:58 +0000] [13290] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:21:58 +0000] [13290] [ERROR] Retrying in 1 second.
+[2017-03-15 17:21:59 +0000] [13290] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:21:59 +0000] [13290] [ERROR] Retrying in 1 second.
+[2017-03-15 17:22:00 +0000] [13290] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:22:00 +0000] [13290] [ERROR] Retrying in 1 second.
+[2017-03-15 17:22:01 +0000] [13290] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:22:01 +0000] [13290] [ERROR] Retrying in 1 second.
+[2017-03-15 17:22:02 +0000] [13290] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:22:02 +0000] [13290] [ERROR] Retrying in 1 second.
+[2017-03-15 17:22:03 +0000] [13290] [ERROR] Can't connect to ('127.0.0.1', 8001)
+[2017-03-15 17:22:05 +0000] [13344] [INFO] Starting gunicorn 19.6.0
+[2017-03-15 17:22:05 +0000] [13344] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:22:05 +0000] [13344] [ERROR] Retrying in 1 second.
+[2017-03-15 17:22:06 +0000] [13344] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:22:06 +0000] [13344] [ERROR] Retrying in 1 second.
+[2017-03-15 17:22:07 +0000] [13344] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:22:07 +0000] [13344] [ERROR] Retrying in 1 second.
+[2017-03-15 17:22:08 +0000] [13344] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:22:08 +0000] [13344] [ERROR] Retrying in 1 second.
+[2017-03-15 17:22:09 +0000] [13344] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:22:09 +0000] [13344] [ERROR] Retrying in 1 second.
+[2017-03-15 17:22:10 +0000] [13344] [ERROR] Can't connect to ('127.0.0.1', 8001)
+[2017-03-15 17:22:12 +0000] [13347] [INFO] Starting gunicorn 19.6.0
+[2017-03-15 17:22:12 +0000] [13347] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:22:12 +0000] [13347] [ERROR] Retrying in 1 second.
+[2017-03-15 17:22:13 +0000] [13347] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:22:13 +0000] [13347] [ERROR] Retrying in 1 second.
+[2017-03-15 17:22:14 +0000] [13347] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:22:14 +0000] [13347] [ERROR] Retrying in 1 second.
+[2017-03-15 17:22:15 +0000] [13347] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:22:15 +0000] [13347] [ERROR] Retrying in 1 second.
+[2017-03-15 17:22:16 +0000] [13347] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:22:16 +0000] [13347] [ERROR] Retrying in 1 second.
+[2017-03-15 17:22:17 +0000] [13347] [ERROR] Can't connect to ('127.0.0.1', 8001)
+[2017-03-15 17:22:19 +0000] [13354] [INFO] Starting gunicorn 19.6.0
+[2017-03-15 17:22:19 +0000] [13354] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:22:19 +0000] [13354] [ERROR] Retrying in 1 second.
+[2017-03-15 17:22:20 +0000] [13354] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:22:20 +0000] [13354] [ERROR] Retrying in 1 second.
+[2017-03-15 17:22:21 +0000] [13354] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:22:21 +0000] [13354] [ERROR] Retrying in 1 second.
+[2017-03-15 17:22:22 +0000] [13354] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:22:22 +0000] [13354] [ERROR] Retrying in 1 second.
+[2017-03-15 17:22:23 +0000] [13354] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:22:23 +0000] [13354] [ERROR] Retrying in 1 second.
+[2017-03-15 17:22:24 +0000] [13354] [ERROR] Can't connect to ('127.0.0.1', 8001)
+[2017-03-15 17:22:25 +0000] [13396] [INFO] Starting gunicorn 19.6.0
+[2017-03-15 17:22:25 +0000] [13396] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:22:25 +0000] [13396] [ERROR] Retrying in 1 second.
+[2017-03-15 17:22:26 +0000] [13396] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:22:26 +0000] [13396] [ERROR] Retrying in 1 second.
+[2017-03-15 17:22:27 +0000] [13396] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:22:27 +0000] [13396] [ERROR] Retrying in 1 second.
+[2017-03-15 17:22:28 +0000] [13396] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:22:28 +0000] [13396] [ERROR] Retrying in 1 second.
+[2017-03-15 17:22:29 +0000] [13396] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:22:29 +0000] [13396] [ERROR] Retrying in 1 second.
+[2017-03-15 17:22:30 +0000] [13396] [ERROR] Can't connect to ('127.0.0.1', 8001)
+[2017-03-15 17:22:32 +0000] [13401] [INFO] Starting gunicorn 19.6.0
+[2017-03-15 17:22:32 +0000] [13401] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:22:32 +0000] [13401] [ERROR] Retrying in 1 second.
+[2017-03-15 17:22:33 +0000] [13401] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:22:33 +0000] [13401] [ERROR] Retrying in 1 second.
+[2017-03-15 17:22:34 +0000] [13401] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:22:34 +0000] [13401] [ERROR] Retrying in 1 second.
+[2017-03-15 17:22:35 +0000] [13401] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:22:35 +0000] [13401] [ERROR] Retrying in 1 second.
+[2017-03-15 17:22:36 +0000] [13401] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:22:36 +0000] [13401] [ERROR] Retrying in 1 second.
+[2017-03-15 17:22:37 +0000] [13401] [ERROR] Can't connect to ('127.0.0.1', 8001)
+[2017-03-15 17:22:39 +0000] [13447] [INFO] Starting gunicorn 19.6.0
+[2017-03-15 17:22:39 +0000] [13447] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:22:39 +0000] [13447] [ERROR] Retrying in 1 second.
+[2017-03-15 17:22:40 +0000] [13447] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:22:40 +0000] [13447] [ERROR] Retrying in 1 second.
+[2017-03-15 17:22:41 +0000] [13447] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:22:41 +0000] [13447] [ERROR] Retrying in 1 second.
+[2017-03-15 17:22:42 +0000] [13447] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:22:42 +0000] [13447] [ERROR] Retrying in 1 second.
+[2017-03-15 17:22:43 +0000] [13447] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:22:43 +0000] [13447] [ERROR] Retrying in 1 second.
+[2017-03-15 17:22:44 +0000] [13447] [ERROR] Can't connect to ('127.0.0.1', 8001)
+[2017-03-15 17:22:45 +0000] [13450] [INFO] Starting gunicorn 19.6.0
+[2017-03-15 17:22:45 +0000] [13450] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:22:45 +0000] [13450] [ERROR] Retrying in 1 second.
+[2017-03-15 17:22:46 +0000] [13450] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:22:46 +0000] [13450] [ERROR] Retrying in 1 second.
+[2017-03-15 17:22:47 +0000] [13450] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:22:48 +0000] [13450] [ERROR] Retrying in 1 second.
+[2017-03-15 17:22:49 +0000] [13450] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:22:49 +0000] [13450] [ERROR] Retrying in 1 second.
+[2017-03-15 17:22:50 +0000] [13450] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:22:50 +0000] [13450] [ERROR] Retrying in 1 second.
+[2017-03-15 17:22:51 +0000] [13450] [ERROR] Can't connect to ('127.0.0.1', 8001)
+[2017-03-15 17:22:52 +0000] [13453] [INFO] Starting gunicorn 19.6.0
+[2017-03-15 17:22:52 +0000] [13453] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:22:52 +0000] [13453] [ERROR] Retrying in 1 second.
+[2017-03-15 17:22:53 +0000] [13453] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:22:53 +0000] [13453] [ERROR] Retrying in 1 second.
+[2017-03-15 17:22:54 +0000] [13453] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:22:54 +0000] [13453] [ERROR] Retrying in 1 second.
+[2017-03-15 17:22:55 +0000] [13453] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:22:55 +0000] [13453] [ERROR] Retrying in 1 second.
+[2017-03-15 17:22:56 +0000] [13453] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:22:56 +0000] [13453] [ERROR] Retrying in 1 second.
+[2017-03-15 17:22:57 +0000] [13453] [ERROR] Can't connect to ('127.0.0.1', 8001)
+[2017-03-15 17:22:59 +0000] [13497] [INFO] Starting gunicorn 19.6.0
+[2017-03-15 17:22:59 +0000] [13497] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:22:59 +0000] [13497] [ERROR] Retrying in 1 second.
+[2017-03-15 17:23:00 +0000] [13497] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:23:00 +0000] [13497] [ERROR] Retrying in 1 second.
+[2017-03-15 17:23:01 +0000] [13497] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:23:01 +0000] [13497] [ERROR] Retrying in 1 second.
+[2017-03-15 17:23:02 +0000] [13497] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:23:02 +0000] [13497] [ERROR] Retrying in 1 second.
+[2017-03-15 17:23:03 +0000] [13497] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:23:03 +0000] [13497] [ERROR] Retrying in 1 second.
+[2017-03-15 17:23:04 +0000] [13497] [ERROR] Can't connect to ('127.0.0.1', 8001)
+[2017-03-15 17:23:06 +0000] [13506] [INFO] Starting gunicorn 19.6.0
+[2017-03-15 17:23:06 +0000] [13506] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:23:06 +0000] [13506] [ERROR] Retrying in 1 second.
+[2017-03-15 17:23:07 +0000] [13506] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:23:07 +0000] [13506] [ERROR] Retrying in 1 second.
+[2017-03-15 17:23:08 +0000] [13506] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:23:08 +0000] [13506] [ERROR] Retrying in 1 second.
+[2017-03-15 17:23:09 +0000] [13506] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:23:09 +0000] [13506] [ERROR] Retrying in 1 second.
+[2017-03-15 17:23:10 +0000] [13506] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:23:10 +0000] [13506] [ERROR] Retrying in 1 second.
+[2017-03-15 17:23:11 +0000] [13506] [ERROR] Can't connect to ('127.0.0.1', 8001)
+[2017-03-15 17:23:13 +0000] [13509] [INFO] Starting gunicorn 19.6.0
+[2017-03-15 17:23:13 +0000] [13509] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:23:13 +0000] [13509] [ERROR] Retrying in 1 second.
+[2017-03-15 17:23:14 +0000] [13509] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:23:14 +0000] [13509] [ERROR] Retrying in 1 second.
+[2017-03-15 17:23:15 +0000] [13509] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:23:15 +0000] [13509] [ERROR] Retrying in 1 second.
+[2017-03-15 17:23:16 +0000] [13509] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:23:16 +0000] [13509] [ERROR] Retrying in 1 second.
+[2017-03-15 17:23:17 +0000] [13509] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:23:17 +0000] [13509] [ERROR] Retrying in 1 second.
+[2017-03-15 17:23:18 +0000] [13509] [ERROR] Can't connect to ('127.0.0.1', 8001)
+[2017-03-15 17:23:19 +0000] [13559] [INFO] Starting gunicorn 19.6.0
+[2017-03-15 17:23:19 +0000] [13559] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:23:19 +0000] [13559] [ERROR] Retrying in 1 second.
+[2017-03-15 17:23:20 +0000] [13559] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:23:20 +0000] [13559] [ERROR] Retrying in 1 second.
+[2017-03-15 17:23:21 +0000] [13559] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:23:21 +0000] [13559] [ERROR] Retrying in 1 second.
+[2017-03-15 17:23:22 +0000] [13559] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:23:22 +0000] [13559] [ERROR] Retrying in 1 second.
+[2017-03-15 17:23:23 +0000] [13559] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:23:23 +0000] [13559] [ERROR] Retrying in 1 second.
+[2017-03-15 17:23:24 +0000] [13559] [ERROR] Can't connect to ('127.0.0.1', 8001)
+[2017-03-15 17:23:26 +0000] [13562] [INFO] Starting gunicorn 19.6.0
+[2017-03-15 17:23:26 +0000] [13562] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:23:26 +0000] [13562] [ERROR] Retrying in 1 second.
+[2017-03-15 17:23:27 +0000] [13562] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:23:27 +0000] [13562] [ERROR] Retrying in 1 second.
+[2017-03-15 17:23:28 +0000] [13562] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:23:28 +0000] [13562] [ERROR] Retrying in 1 second.
+[2017-03-15 17:23:29 +0000] [13562] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:23:29 +0000] [13562] [ERROR] Retrying in 1 second.
+[2017-03-15 17:23:30 +0000] [13562] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:23:30 +0000] [13562] [ERROR] Retrying in 1 second.
+[2017-03-15 17:23:31 +0000] [13562] [ERROR] Can't connect to ('127.0.0.1', 8001)
+[2017-03-15 17:23:33 +0000] [13566] [INFO] Starting gunicorn 19.6.0
+[2017-03-15 17:23:33 +0000] [13566] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:23:33 +0000] [13566] [ERROR] Retrying in 1 second.
+[2017-03-15 17:23:34 +0000] [13566] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:23:34 +0000] [13566] [ERROR] Retrying in 1 second.
+[2017-03-15 17:23:35 +0000] [13566] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:23:35 +0000] [13566] [ERROR] Retrying in 1 second.
+[2017-03-15 17:23:36 +0000] [13566] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:23:36 +0000] [13566] [ERROR] Retrying in 1 second.
+[2017-03-15 17:23:37 +0000] [13566] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:23:37 +0000] [13566] [ERROR] Retrying in 1 second.
+[2017-03-15 17:23:38 +0000] [13566] [ERROR] Can't connect to ('127.0.0.1', 8001)
+[2017-03-15 17:23:40 +0000] [13609] [INFO] Starting gunicorn 19.6.0
+[2017-03-15 17:23:40 +0000] [13609] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:23:40 +0000] [13609] [ERROR] Retrying in 1 second.
+[2017-03-15 17:23:41 +0000] [13609] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:23:41 +0000] [13609] [ERROR] Retrying in 1 second.
+[2017-03-15 17:23:42 +0000] [13609] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:23:42 +0000] [13609] [ERROR] Retrying in 1 second.
+[2017-03-15 17:23:43 +0000] [13609] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:23:43 +0000] [13609] [ERROR] Retrying in 1 second.
+[2017-03-15 17:23:44 +0000] [13609] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:23:44 +0000] [13609] [ERROR] Retrying in 1 second.
+[2017-03-15 17:23:45 +0000] [13609] [ERROR] Can't connect to ('127.0.0.1', 8001)
+[2017-03-15 17:23:46 +0000] [13612] [INFO] Starting gunicorn 19.6.0
+[2017-03-15 17:23:46 +0000] [13612] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:23:46 +0000] [13612] [ERROR] Retrying in 1 second.
+[2017-03-15 17:23:47 +0000] [13612] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:23:47 +0000] [13612] [ERROR] Retrying in 1 second.
+[2017-03-15 17:23:48 +0000] [13612] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:23:48 +0000] [13612] [ERROR] Retrying in 1 second.
+[2017-03-15 17:23:49 +0000] [13612] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:23:49 +0000] [13612] [ERROR] Retrying in 1 second.
+[2017-03-15 17:23:50 +0000] [13612] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:23:50 +0000] [13612] [ERROR] Retrying in 1 second.
+[2017-03-15 17:23:51 +0000] [13612] [ERROR] Can't connect to ('127.0.0.1', 8001)
+[2017-03-15 17:23:53 +0000] [13616] [INFO] Starting gunicorn 19.6.0
+[2017-03-15 17:23:53 +0000] [13616] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:23:53 +0000] [13616] [ERROR] Retrying in 1 second.
+[2017-03-15 17:23:54 +0000] [13616] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:23:54 +0000] [13616] [ERROR] Retrying in 1 second.
+[2017-03-15 17:23:55 +0000] [13616] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:23:55 +0000] [13616] [ERROR] Retrying in 1 second.
+[2017-03-15 17:23:56 +0000] [13616] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:23:56 +0000] [13616] [ERROR] Retrying in 1 second.
+[2017-03-15 17:23:57 +0000] [13616] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:23:57 +0000] [13616] [ERROR] Retrying in 1 second.
+[2017-03-15 17:23:58 +0000] [13616] [ERROR] Can't connect to ('127.0.0.1', 8001)
+[2017-03-15 17:24:00 +0000] [13659] [INFO] Starting gunicorn 19.6.0
+[2017-03-15 17:24:00 +0000] [13659] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:24:00 +0000] [13659] [ERROR] Retrying in 1 second.
+[2017-03-15 17:24:01 +0000] [13659] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:24:01 +0000] [13659] [ERROR] Retrying in 1 second.
+[2017-03-15 17:24:02 +0000] [13659] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:24:02 +0000] [13659] [ERROR] Retrying in 1 second.
+[2017-03-15 17:24:03 +0000] [13659] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:24:03 +0000] [13659] [ERROR] Retrying in 1 second.
+[2017-03-15 17:24:04 +0000] [13659] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:24:04 +0000] [13659] [ERROR] Retrying in 1 second.
+[2017-03-15 17:24:05 +0000] [13659] [ERROR] Can't connect to ('127.0.0.1', 8001)
+[2017-03-15 17:24:07 +0000] [13668] [INFO] Starting gunicorn 19.6.0
+[2017-03-15 17:24:07 +0000] [13668] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:24:07 +0000] [13668] [ERROR] Retrying in 1 second.
+[2017-03-15 17:24:08 +0000] [13668] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:24:08 +0000] [13668] [ERROR] Retrying in 1 second.
+[2017-03-15 17:24:09 +0000] [13668] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:24:09 +0000] [13668] [ERROR] Retrying in 1 second.
+[2017-03-15 17:24:10 +0000] [13668] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:24:10 +0000] [13668] [ERROR] Retrying in 1 second.
+[2017-03-15 17:24:11 +0000] [13668] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:24:11 +0000] [13668] [ERROR] Retrying in 1 second.
+[2017-03-15 17:24:12 +0000] [13668] [ERROR] Can't connect to ('127.0.0.1', 8001)
+[2017-03-15 17:24:13 +0000] [13673] [INFO] Starting gunicorn 19.6.0
+[2017-03-15 17:24:13 +0000] [13673] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:24:13 +0000] [13673] [ERROR] Retrying in 1 second.
+[2017-03-15 17:24:14 +0000] [13673] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:24:14 +0000] [13673] [ERROR] Retrying in 1 second.
+[2017-03-15 17:24:15 +0000] [13673] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:24:15 +0000] [13673] [ERROR] Retrying in 1 second.
+[2017-03-15 17:24:16 +0000] [13673] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:24:16 +0000] [13673] [ERROR] Retrying in 1 second.
+[2017-03-15 17:24:17 +0000] [13673] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:24:17 +0000] [13673] [ERROR] Retrying in 1 second.
+[2017-03-15 17:24:18 +0000] [13673] [ERROR] Can't connect to ('127.0.0.1', 8001)
+[2017-03-15 17:24:20 +0000] [13715] [INFO] Starting gunicorn 19.6.0
+[2017-03-15 17:24:20 +0000] [13715] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:24:20 +0000] [13715] [ERROR] Retrying in 1 second.
+[2017-03-15 17:24:21 +0000] [13715] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:24:21 +0000] [13715] [ERROR] Retrying in 1 second.
+[2017-03-15 17:24:22 +0000] [13715] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:24:22 +0000] [13715] [ERROR] Retrying in 1 second.
+[2017-03-15 17:24:23 +0000] [13715] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:24:23 +0000] [13715] [ERROR] Retrying in 1 second.
+[2017-03-15 17:24:24 +0000] [13715] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:24:24 +0000] [13715] [ERROR] Retrying in 1 second.
+[2017-03-15 17:24:25 +0000] [13715] [ERROR] Can't connect to ('127.0.0.1', 8001)
+[2017-03-15 17:24:27 +0000] [13718] [INFO] Starting gunicorn 19.6.0
+[2017-03-15 17:24:27 +0000] [13718] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:24:27 +0000] [13718] [ERROR] Retrying in 1 second.
+[2017-03-15 17:24:28 +0000] [13718] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:24:28 +0000] [13718] [ERROR] Retrying in 1 second.
+[2017-03-15 17:24:29 +0000] [13718] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:24:29 +0000] [13718] [ERROR] Retrying in 1 second.
+[2017-03-15 17:24:30 +0000] [13718] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:24:30 +0000] [13718] [ERROR] Retrying in 1 second.
+[2017-03-15 17:24:31 +0000] [13718] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:24:31 +0000] [13718] [ERROR] Retrying in 1 second.
+[2017-03-15 17:24:32 +0000] [13718] [ERROR] Can't connect to ('127.0.0.1', 8001)
+[2017-03-15 17:24:34 +0000] [13768] [INFO] Starting gunicorn 19.6.0
+[2017-03-15 17:24:34 +0000] [13768] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:24:34 +0000] [13768] [ERROR] Retrying in 1 second.
+[2017-03-15 17:24:35 +0000] [13768] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:24:35 +0000] [13768] [ERROR] Retrying in 1 second.
+[2017-03-15 17:24:36 +0000] [13768] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:24:36 +0000] [13768] [ERROR] Retrying in 1 second.
+[2017-03-15 17:24:37 +0000] [13768] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:24:37 +0000] [13768] [ERROR] Retrying in 1 second.
+[2017-03-15 17:24:38 +0000] [13768] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:24:38 +0000] [13768] [ERROR] Retrying in 1 second.
+[2017-03-15 17:24:39 +0000] [13768] [ERROR] Can't connect to ('127.0.0.1', 8001)
+[2017-03-15 17:24:41 +0000] [13772] [INFO] Starting gunicorn 19.6.0
+[2017-03-15 17:24:41 +0000] [13772] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:24:41 +0000] [13772] [ERROR] Retrying in 1 second.
+[2017-03-15 17:24:42 +0000] [13772] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:24:42 +0000] [13772] [ERROR] Retrying in 1 second.
+[2017-03-15 17:24:43 +0000] [13772] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:24:43 +0000] [13772] [ERROR] Retrying in 1 second.
+[2017-03-15 17:24:44 +0000] [13772] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:24:44 +0000] [13772] [ERROR] Retrying in 1 second.
+[2017-03-15 17:24:45 +0000] [13772] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:24:45 +0000] [13772] [ERROR] Retrying in 1 second.
+[2017-03-15 17:24:46 +0000] [13772] [ERROR] Can't connect to ('127.0.0.1', 8001)
+[2017-03-15 17:24:47 +0000] [13775] [INFO] Starting gunicorn 19.6.0
+[2017-03-15 17:24:47 +0000] [13775] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:24:47 +0000] [13775] [ERROR] Retrying in 1 second.
+[2017-03-15 17:24:48 +0000] [13775] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:24:48 +0000] [13775] [ERROR] Retrying in 1 second.
+[2017-03-15 17:24:49 +0000] [13775] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:24:49 +0000] [13775] [ERROR] Retrying in 1 second.
+[2017-03-15 17:24:50 +0000] [13775] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:24:50 +0000] [13775] [ERROR] Retrying in 1 second.
+[2017-03-15 17:24:51 +0000] [13775] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:24:51 +0000] [13775] [ERROR] Retrying in 1 second.
+[2017-03-15 17:24:52 +0000] [13775] [ERROR] Can't connect to ('127.0.0.1', 8001)
+[2017-03-15 17:24:54 +0000] [13819] [INFO] Starting gunicorn 19.6.0
+[2017-03-15 17:24:54 +0000] [13819] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:24:54 +0000] [13819] [ERROR] Retrying in 1 second.
+[2017-03-15 17:24:55 +0000] [13819] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:24:55 +0000] [13819] [ERROR] Retrying in 1 second.
+[2017-03-15 17:24:56 +0000] [13819] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:24:56 +0000] [13819] [ERROR] Retrying in 1 second.
+[2017-03-15 17:24:57 +0000] [13819] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:24:57 +0000] [13819] [ERROR] Retrying in 1 second.
+[2017-03-15 17:24:58 +0000] [13819] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:24:58 +0000] [13819] [ERROR] Retrying in 1 second.
+[2017-03-15 17:24:59 +0000] [13819] [ERROR] Can't connect to ('127.0.0.1', 8001)
+[2017-03-15 17:25:01 +0000] [13822] [INFO] Starting gunicorn 19.6.0
+[2017-03-15 17:25:01 +0000] [13822] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:25:01 +0000] [13822] [ERROR] Retrying in 1 second.
+[2017-03-15 17:25:02 +0000] [13822] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:25:02 +0000] [13822] [ERROR] Retrying in 1 second.
+[2017-03-15 17:25:03 +0000] [13822] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:25:03 +0000] [13822] [ERROR] Retrying in 1 second.
+[2017-03-15 17:25:04 +0000] [13822] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:25:04 +0000] [13822] [ERROR] Retrying in 1 second.
+[2017-03-15 17:25:05 +0000] [13822] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:25:05 +0000] [13822] [ERROR] Retrying in 1 second.
+[2017-03-15 17:25:06 +0000] [13822] [ERROR] Can't connect to ('127.0.0.1', 8001)
+[2017-03-15 17:25:08 +0000] [13832] [INFO] Starting gunicorn 19.6.0
+[2017-03-15 17:25:08 +0000] [13832] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:25:08 +0000] [13832] [ERROR] Retrying in 1 second.
+[2017-03-15 17:25:09 +0000] [13832] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:25:09 +0000] [13832] [ERROR] Retrying in 1 second.
+[2017-03-15 17:25:10 +0000] [13832] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:25:10 +0000] [13832] [ERROR] Retrying in 1 second.
+[2017-03-15 17:25:11 +0000] [13832] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:25:11 +0000] [13832] [ERROR] Retrying in 1 second.
+[2017-03-15 17:25:12 +0000] [13832] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:25:12 +0000] [13832] [ERROR] Retrying in 1 second.
+[2017-03-15 17:25:13 +0000] [13832] [ERROR] Can't connect to ('127.0.0.1', 8001)
+[2017-03-15 17:25:15 +0000] [13875] [INFO] Starting gunicorn 19.6.0
+[2017-03-15 17:25:15 +0000] [13875] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:25:15 +0000] [13875] [ERROR] Retrying in 1 second.
+[2017-03-15 17:25:16 +0000] [13875] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:25:16 +0000] [13875] [ERROR] Retrying in 1 second.
+[2017-03-15 17:25:17 +0000] [13875] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:25:17 +0000] [13875] [ERROR] Retrying in 1 second.
+[2017-03-15 17:25:18 +0000] [13875] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:25:18 +0000] [13875] [ERROR] Retrying in 1 second.
+[2017-03-15 17:25:19 +0000] [13875] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:25:19 +0000] [13875] [ERROR] Retrying in 1 second.
+[2017-03-15 17:25:20 +0000] [13875] [ERROR] Can't connect to ('127.0.0.1', 8001)
+[2017-03-15 17:25:22 +0000] [13878] [INFO] Starting gunicorn 19.6.0
+[2017-03-15 17:25:22 +0000] [13878] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:25:22 +0000] [13878] [ERROR] Retrying in 1 second.
+[2017-03-15 17:25:23 +0000] [13878] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:25:23 +0000] [13878] [ERROR] Retrying in 1 second.
+[2017-03-15 17:25:24 +0000] [13878] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:25:24 +0000] [13878] [ERROR] Retrying in 1 second.
+[2017-03-15 17:25:25 +0000] [13878] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:25:25 +0000] [13878] [ERROR] Retrying in 1 second.
+[2017-03-15 17:25:26 +0000] [13878] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:25:26 +0000] [13878] [ERROR] Retrying in 1 second.
+[2017-03-15 17:25:27 +0000] [13878] [ERROR] Can't connect to ('127.0.0.1', 8001)
+[2017-03-15 17:25:28 +0000] [13882] [INFO] Starting gunicorn 19.6.0
+[2017-03-15 17:25:28 +0000] [13882] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:25:28 +0000] [13882] [ERROR] Retrying in 1 second.
+[2017-03-15 17:25:29 +0000] [13882] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:25:29 +0000] [13882] [ERROR] Retrying in 1 second.
+[2017-03-15 17:25:30 +0000] [13882] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:25:30 +0000] [13882] [ERROR] Retrying in 1 second.
+[2017-03-15 17:25:31 +0000] [13882] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:25:31 +0000] [13882] [ERROR] Retrying in 1 second.
+[2017-03-15 17:25:32 +0000] [13882] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:25:32 +0000] [13882] [ERROR] Retrying in 1 second.
+[2017-03-15 17:25:33 +0000] [13882] [ERROR] Can't connect to ('127.0.0.1', 8001)
+[2017-03-15 17:25:35 +0000] [13925] [INFO] Starting gunicorn 19.6.0
+[2017-03-15 17:25:35 +0000] [13925] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:25:35 +0000] [13925] [ERROR] Retrying in 1 second.
+[2017-03-15 17:25:36 +0000] [13925] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:25:36 +0000] [13925] [ERROR] Retrying in 1 second.
+[2017-03-15 17:25:37 +0000] [13925] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:25:37 +0000] [13925] [ERROR] Retrying in 1 second.
+[2017-03-15 17:25:38 +0000] [13925] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:25:38 +0000] [13925] [ERROR] Retrying in 1 second.
+[2017-03-15 17:25:39 +0000] [13925] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:25:39 +0000] [13925] [ERROR] Retrying in 1 second.
+[2017-03-15 17:25:40 +0000] [13925] [ERROR] Can't connect to ('127.0.0.1', 8001)
+[2017-03-15 17:25:42 +0000] [13930] [INFO] Starting gunicorn 19.6.0
+[2017-03-15 17:25:42 +0000] [13930] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:25:42 +0000] [13930] [ERROR] Retrying in 1 second.
+[2017-03-15 17:25:43 +0000] [13930] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:25:43 +0000] [13930] [ERROR] Retrying in 1 second.
+[2017-03-15 17:25:44 +0000] [13930] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:25:44 +0000] [13930] [ERROR] Retrying in 1 second.
+[2017-03-15 17:25:45 +0000] [13930] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:25:45 +0000] [13930] [ERROR] Retrying in 1 second.
+[2017-03-15 17:25:46 +0000] [13930] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:25:46 +0000] [13930] [ERROR] Retrying in 1 second.
+[2017-03-15 17:25:47 +0000] [13930] [ERROR] Can't connect to ('127.0.0.1', 8001)
+[2017-03-15 17:25:48 +0000] [13934] [INFO] Starting gunicorn 19.6.0
+[2017-03-15 17:25:48 +0000] [13934] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:25:48 +0000] [13934] [ERROR] Retrying in 1 second.
+[2017-03-15 17:25:49 +0000] [13934] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:25:49 +0000] [13934] [ERROR] Retrying in 1 second.
+[2017-03-15 17:25:50 +0000] [13934] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:25:50 +0000] [13934] [ERROR] Retrying in 1 second.
+[2017-03-15 17:25:51 +0000] [13934] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:25:51 +0000] [13934] [ERROR] Retrying in 1 second.
+[2017-03-15 17:25:52 +0000] [13934] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:25:52 +0000] [13934] [ERROR] Retrying in 1 second.
+[2017-03-15 17:25:53 +0000] [13934] [ERROR] Can't connect to ('127.0.0.1', 8001)
+[2017-03-15 17:25:55 +0000] [13983] [INFO] Starting gunicorn 19.6.0
+[2017-03-15 17:25:55 +0000] [13983] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:25:55 +0000] [13983] [ERROR] Retrying in 1 second.
+[2017-03-15 17:25:56 +0000] [13983] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:25:56 +0000] [13983] [ERROR] Retrying in 1 second.
+[2017-03-15 17:25:57 +0000] [13983] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:25:57 +0000] [13983] [ERROR] Retrying in 1 second.
+[2017-03-15 17:25:58 +0000] [13983] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:25:58 +0000] [13983] [ERROR] Retrying in 1 second.
+[2017-03-15 17:25:59 +0000] [13983] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:25:59 +0000] [13983] [ERROR] Retrying in 1 second.
+[2017-03-15 17:26:00 +0000] [13983] [ERROR] Can't connect to ('127.0.0.1', 8001)
+[2017-03-15 17:26:03 +0000] [13990] [INFO] Starting gunicorn 19.6.0
+[2017-03-15 17:26:03 +0000] [13990] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:26:03 +0000] [13990] [ERROR] Retrying in 1 second.
+[2017-03-15 17:26:04 +0000] [13990] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:26:04 +0000] [13990] [ERROR] Retrying in 1 second.
+[2017-03-15 17:26:05 +0000] [13990] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:26:05 +0000] [13990] [ERROR] Retrying in 1 second.
+[2017-03-15 17:26:06 +0000] [13990] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:26:06 +0000] [13990] [ERROR] Retrying in 1 second.
+[2017-03-15 17:26:07 +0000] [13990] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:26:07 +0000] [13990] [ERROR] Retrying in 1 second.
+[2017-03-15 17:26:08 +0000] [13990] [ERROR] Can't connect to ('127.0.0.1', 8001)
+[2017-03-15 17:26:09 +0000] [14036] [INFO] Starting gunicorn 19.6.0
+[2017-03-15 17:26:09 +0000] [14036] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:26:09 +0000] [14036] [ERROR] Retrying in 1 second.
+[2017-03-15 17:26:10 +0000] [14036] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:26:10 +0000] [14036] [ERROR] Retrying in 1 second.
+[2017-03-15 17:26:11 +0000] [14036] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:26:11 +0000] [14036] [ERROR] Retrying in 1 second.
+[2017-03-15 17:26:12 +0000] [14036] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:26:12 +0000] [14036] [ERROR] Retrying in 1 second.
+[2017-03-15 17:26:13 +0000] [14036] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:26:13 +0000] [14036] [ERROR] Retrying in 1 second.
+[2017-03-15 17:26:14 +0000] [14036] [ERROR] Can't connect to ('127.0.0.1', 8001)
+[2017-03-15 17:26:16 +0000] [14039] [INFO] Starting gunicorn 19.6.0
+[2017-03-15 17:26:16 +0000] [14039] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:26:16 +0000] [14039] [ERROR] Retrying in 1 second.
+[2017-03-15 17:26:17 +0000] [14039] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:26:17 +0000] [14039] [ERROR] Retrying in 1 second.
+[2017-03-15 17:26:18 +0000] [14039] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:26:18 +0000] [14039] [ERROR] Retrying in 1 second.
+[2017-03-15 17:26:19 +0000] [14039] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:26:19 +0000] [14039] [ERROR] Retrying in 1 second.
+[2017-03-15 17:26:20 +0000] [14039] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:26:20 +0000] [14039] [ERROR] Retrying in 1 second.
+[2017-03-15 17:26:21 +0000] [14039] [ERROR] Can't connect to ('127.0.0.1', 8001)
+[2017-03-15 17:26:23 +0000] [14042] [INFO] Starting gunicorn 19.6.0
+[2017-03-15 17:26:23 +0000] [14042] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:26:23 +0000] [14042] [ERROR] Retrying in 1 second.
+[2017-03-15 17:26:24 +0000] [14042] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:26:24 +0000] [14042] [ERROR] Retrying in 1 second.
+[2017-03-15 17:26:25 +0000] [14042] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:26:25 +0000] [14042] [ERROR] Retrying in 1 second.
+[2017-03-15 17:26:26 +0000] [14042] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:26:26 +0000] [14042] [ERROR] Retrying in 1 second.
+[2017-03-15 17:26:27 +0000] [14042] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:26:27 +0000] [14042] [ERROR] Retrying in 1 second.
+[2017-03-15 17:26:28 +0000] [14042] [ERROR] Can't connect to ('127.0.0.1', 8001)
+[2017-03-15 17:26:30 +0000] [14086] [INFO] Starting gunicorn 19.6.0
+[2017-03-15 17:26:30 +0000] [14086] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:26:30 +0000] [14086] [ERROR] Retrying in 1 second.
+[2017-03-15 17:26:31 +0000] [14086] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:26:31 +0000] [14086] [ERROR] Retrying in 1 second.
+[2017-03-15 17:26:32 +0000] [14086] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:26:32 +0000] [14086] [ERROR] Retrying in 1 second.
+[2017-03-15 17:26:33 +0000] [14086] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:26:33 +0000] [14086] [ERROR] Retrying in 1 second.
+[2017-03-15 17:26:34 +0000] [14086] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:26:34 +0000] [14086] [ERROR] Retrying in 1 second.
+[2017-03-15 17:26:35 +0000] [14086] [ERROR] Can't connect to ('127.0.0.1', 8001)
+[2017-03-15 17:26:36 +0000] [14089] [INFO] Starting gunicorn 19.6.0
+[2017-03-15 17:26:36 +0000] [14089] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:26:36 +0000] [14089] [ERROR] Retrying in 1 second.
+[2017-03-15 17:26:37 +0000] [14089] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:26:37 +0000] [14089] [ERROR] Retrying in 1 second.
+[2017-03-15 17:26:38 +0000] [14089] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:26:38 +0000] [14089] [ERROR] Retrying in 1 second.
+[2017-03-15 17:26:39 +0000] [14089] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:26:39 +0000] [14089] [ERROR] Retrying in 1 second.
+[2017-03-15 17:26:40 +0000] [14089] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:26:40 +0000] [14089] [ERROR] Retrying in 1 second.
+[2017-03-15 17:26:41 +0000] [14089] [ERROR] Can't connect to ('127.0.0.1', 8001)
+[2017-03-15 17:26:43 +0000] [14092] [INFO] Starting gunicorn 19.6.0
+[2017-03-15 17:26:43 +0000] [14092] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:26:43 +0000] [14092] [ERROR] Retrying in 1 second.
+[2017-03-15 17:26:44 +0000] [14092] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:26:44 +0000] [14092] [ERROR] Retrying in 1 second.
+[2017-03-15 17:26:45 +0000] [14092] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:26:45 +0000] [14092] [ERROR] Retrying in 1 second.
+[2017-03-15 17:26:46 +0000] [14092] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:26:46 +0000] [14092] [ERROR] Retrying in 1 second.
+[2017-03-15 17:26:47 +0000] [14092] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:26:47 +0000] [14092] [ERROR] Retrying in 1 second.
+[2017-03-15 17:26:48 +0000] [14092] [ERROR] Can't connect to ('127.0.0.1', 8001)
+[2017-03-15 17:26:50 +0000] [14136] [INFO] Starting gunicorn 19.6.0
+[2017-03-15 17:26:50 +0000] [14136] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:26:50 +0000] [14136] [ERROR] Retrying in 1 second.
+[2017-03-15 17:26:51 +0000] [14136] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:26:51 +0000] [14136] [ERROR] Retrying in 1 second.
+[2017-03-15 17:26:52 +0000] [14136] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:26:52 +0000] [14136] [ERROR] Retrying in 1 second.
+[2017-03-15 17:26:53 +0000] [14136] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:26:53 +0000] [14136] [ERROR] Retrying in 1 second.
+[2017-03-15 17:26:54 +0000] [14136] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:26:54 +0000] [14136] [ERROR] Retrying in 1 second.
+[2017-03-15 17:26:55 +0000] [14136] [ERROR] Can't connect to ('127.0.0.1', 8001)
+[2017-03-15 17:26:56 +0000] [14139] [INFO] Starting gunicorn 19.6.0
+[2017-03-15 17:26:56 +0000] [14139] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:26:56 +0000] [14139] [ERROR] Retrying in 1 second.
+[2017-03-15 17:26:57 +0000] [14139] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:26:57 +0000] [14139] [ERROR] Retrying in 1 second.
+[2017-03-15 17:26:58 +0000] [14139] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:26:58 +0000] [14139] [ERROR] Retrying in 1 second.
+[2017-03-15 17:26:59 +0000] [14139] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:26:59 +0000] [14139] [ERROR] Retrying in 1 second.
+[2017-03-15 17:27:00 +0000] [14139] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:27:00 +0000] [14139] [ERROR] Retrying in 1 second.
+[2017-03-15 17:27:01 +0000] [14139] [ERROR] Can't connect to ('127.0.0.1', 8001)
+[2017-03-15 17:27:03 +0000] [14149] [INFO] Starting gunicorn 19.6.0
+[2017-03-15 17:27:03 +0000] [14149] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:27:03 +0000] [14149] [ERROR] Retrying in 1 second.
+[2017-03-15 17:27:04 +0000] [14149] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:27:04 +0000] [14149] [ERROR] Retrying in 1 second.
+[2017-03-15 17:27:05 +0000] [14149] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:27:05 +0000] [14149] [ERROR] Retrying in 1 second.
+[2017-03-15 17:27:06 +0000] [14149] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:27:06 +0000] [14149] [ERROR] Retrying in 1 second.
+[2017-03-15 17:27:07 +0000] [14149] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:27:07 +0000] [14149] [ERROR] Retrying in 1 second.
+[2017-03-15 17:27:08 +0000] [14149] [ERROR] Can't connect to ('127.0.0.1', 8001)
+[2017-03-15 17:27:10 +0000] [14198] [INFO] Starting gunicorn 19.6.0
+[2017-03-15 17:27:10 +0000] [14198] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:27:10 +0000] [14198] [ERROR] Retrying in 1 second.
+[2017-03-15 17:27:11 +0000] [14198] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:27:11 +0000] [14198] [ERROR] Retrying in 1 second.
+[2017-03-15 17:27:12 +0000] [14198] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:27:12 +0000] [14198] [ERROR] Retrying in 1 second.
+[2017-03-15 17:27:13 +0000] [14198] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:27:13 +0000] [14198] [ERROR] Retrying in 1 second.
+[2017-03-15 17:27:14 +0000] [14198] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:27:14 +0000] [14198] [ERROR] Retrying in 1 second.
+[2017-03-15 17:27:15 +0000] [14198] [ERROR] Can't connect to ('127.0.0.1', 8001)
+[2017-03-15 17:27:17 +0000] [14201] [INFO] Starting gunicorn 19.6.0
+[2017-03-15 17:27:17 +0000] [14201] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:27:17 +0000] [14201] [ERROR] Retrying in 1 second.
+[2017-03-15 17:27:18 +0000] [14201] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:27:18 +0000] [14201] [ERROR] Retrying in 1 second.
+[2017-03-15 17:27:19 +0000] [14201] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:27:19 +0000] [14201] [ERROR] Retrying in 1 second.
+[2017-03-15 17:27:20 +0000] [14201] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:27:20 +0000] [14201] [ERROR] Retrying in 1 second.
+[2017-03-15 17:27:21 +0000] [14201] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:27:21 +0000] [14201] [ERROR] Retrying in 1 second.
+[2017-03-15 17:27:22 +0000] [14201] [ERROR] Can't connect to ('127.0.0.1', 8001)
+[2017-03-15 17:27:24 +0000] [14205] [INFO] Starting gunicorn 19.6.0
+[2017-03-15 17:27:24 +0000] [14205] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:27:24 +0000] [14205] [ERROR] Retrying in 1 second.
+[2017-03-15 17:27:25 +0000] [14205] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:27:25 +0000] [14205] [ERROR] Retrying in 1 second.
+[2017-03-15 17:27:26 +0000] [14205] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:27:26 +0000] [14205] [ERROR] Retrying in 1 second.
+[2017-03-15 17:27:27 +0000] [14205] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:27:27 +0000] [14205] [ERROR] Retrying in 1 second.
+[2017-03-15 17:27:28 +0000] [14205] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:27:28 +0000] [14205] [ERROR] Retrying in 1 second.
+[2017-03-15 17:27:29 +0000] [14205] [ERROR] Can't connect to ('127.0.0.1', 8001)
+[2017-03-15 17:27:31 +0000] [14248] [INFO] Starting gunicorn 19.6.0
+[2017-03-15 17:27:31 +0000] [14248] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:27:31 +0000] [14248] [ERROR] Retrying in 1 second.
+[2017-03-15 17:27:32 +0000] [14248] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:27:32 +0000] [14248] [ERROR] Retrying in 1 second.
+[2017-03-15 17:27:33 +0000] [14248] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:27:33 +0000] [14248] [ERROR] Retrying in 1 second.
+[2017-03-15 17:27:34 +0000] [14248] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:27:34 +0000] [14248] [ERROR] Retrying in 1 second.
+[2017-03-15 17:27:35 +0000] [14248] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:27:35 +0000] [14248] [ERROR] Retrying in 1 second.
+[2017-03-15 17:27:36 +0000] [14248] [ERROR] Can't connect to ('127.0.0.1', 8001)
+[2017-03-15 17:27:37 +0000] [14251] [INFO] Starting gunicorn 19.6.0
+[2017-03-15 17:27:37 +0000] [14251] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:27:37 +0000] [14251] [ERROR] Retrying in 1 second.
+[2017-03-15 17:27:38 +0000] [14251] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:27:38 +0000] [14251] [ERROR] Retrying in 1 second.
+[2017-03-15 17:27:39 +0000] [14251] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:27:39 +0000] [14251] [ERROR] Retrying in 1 second.
+[2017-03-15 17:27:40 +0000] [14251] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:27:40 +0000] [14251] [ERROR] Retrying in 1 second.
+[2017-03-15 17:27:41 +0000] [14251] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:27:41 +0000] [14251] [ERROR] Retrying in 1 second.
+[2017-03-15 17:27:42 +0000] [14251] [ERROR] Can't connect to ('127.0.0.1', 8001)
+[2017-03-15 17:27:44 +0000] [14256] [INFO] Starting gunicorn 19.6.0
+[2017-03-15 17:27:44 +0000] [14256] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:27:44 +0000] [14256] [ERROR] Retrying in 1 second.
+[2017-03-15 17:27:45 +0000] [14256] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:27:45 +0000] [14256] [ERROR] Retrying in 1 second.
+[2017-03-15 17:27:46 +0000] [14256] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:27:46 +0000] [14256] [ERROR] Retrying in 1 second.
+[2017-03-15 17:27:47 +0000] [14256] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:27:47 +0000] [14256] [ERROR] Retrying in 1 second.
+[2017-03-15 17:27:48 +0000] [14256] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:27:48 +0000] [14256] [ERROR] Retrying in 1 second.
+[2017-03-15 17:27:49 +0000] [14256] [ERROR] Can't connect to ('127.0.0.1', 8001)
+[2017-03-15 17:27:51 +0000] [14298] [INFO] Starting gunicorn 19.6.0
+[2017-03-15 17:27:51 +0000] [14298] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:27:51 +0000] [14298] [ERROR] Retrying in 1 second.
+[2017-03-15 17:27:52 +0000] [14298] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:27:52 +0000] [14298] [ERROR] Retrying in 1 second.
+[2017-03-15 17:27:53 +0000] [14298] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:27:53 +0000] [14298] [ERROR] Retrying in 1 second.
+[2017-03-15 17:27:54 +0000] [14298] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:27:54 +0000] [14298] [ERROR] Retrying in 1 second.
+[2017-03-15 17:27:55 +0000] [14298] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:27:55 +0000] [14298] [ERROR] Retrying in 1 second.
+[2017-03-15 17:27:56 +0000] [14298] [ERROR] Can't connect to ('127.0.0.1', 8001)
+[2017-03-15 17:27:58 +0000] [14301] [INFO] Starting gunicorn 19.6.0
+[2017-03-15 17:27:58 +0000] [14301] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:27:58 +0000] [14301] [ERROR] Retrying in 1 second.
+[2017-03-15 17:27:59 +0000] [14301] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:27:59 +0000] [14301] [ERROR] Retrying in 1 second.
+[2017-03-15 17:28:00 +0000] [14301] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:28:00 +0000] [14301] [ERROR] Retrying in 1 second.
+[2017-03-15 17:28:01 +0000] [14301] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:28:01 +0000] [14301] [ERROR] Retrying in 1 second.
+[2017-03-15 17:28:02 +0000] [14301] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:28:02 +0000] [14301] [ERROR] Retrying in 1 second.
+[2017-03-15 17:28:03 +0000] [14301] [ERROR] Can't connect to ('127.0.0.1', 8001)
+[2017-03-15 17:28:04 +0000] [14351] [INFO] Starting gunicorn 19.6.0
+[2017-03-15 17:28:04 +0000] [14351] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:28:04 +0000] [14351] [ERROR] Retrying in 1 second.
+[2017-03-15 17:28:05 +0000] [14351] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:28:05 +0000] [14351] [ERROR] Retrying in 1 second.
+[2017-03-15 17:28:06 +0000] [14351] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:28:06 +0000] [14351] [ERROR] Retrying in 1 second.
+[2017-03-15 17:28:07 +0000] [14351] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:28:07 +0000] [14351] [ERROR] Retrying in 1 second.
+[2017-03-15 17:28:08 +0000] [14351] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:28:08 +0000] [14351] [ERROR] Retrying in 1 second.
+[2017-03-15 17:28:09 +0000] [14351] [ERROR] Can't connect to ('127.0.0.1', 8001)
+[2017-03-15 17:28:11 +0000] [14354] [INFO] Starting gunicorn 19.6.0
+[2017-03-15 17:28:11 +0000] [14354] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:28:11 +0000] [14354] [ERROR] Retrying in 1 second.
+[2017-03-15 17:28:12 +0000] [14354] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:28:12 +0000] [14354] [ERROR] Retrying in 1 second.
+[2017-03-15 17:28:13 +0000] [14354] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:28:13 +0000] [14354] [ERROR] Retrying in 1 second.
+[2017-03-15 17:28:14 +0000] [14354] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:28:14 +0000] [14354] [ERROR] Retrying in 1 second.
+[2017-03-15 17:28:15 +0000] [14354] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:28:15 +0000] [14354] [ERROR] Retrying in 1 second.
+[2017-03-15 17:28:16 +0000] [14354] [ERROR] Can't connect to ('127.0.0.1', 8001)
+[2017-03-15 17:28:18 +0000] [14357] [INFO] Starting gunicorn 19.6.0
+[2017-03-15 17:28:18 +0000] [14357] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:28:18 +0000] [14357] [ERROR] Retrying in 1 second.
+[2017-03-15 17:28:19 +0000] [14357] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:28:19 +0000] [14357] [ERROR] Retrying in 1 second.
+[2017-03-15 17:28:20 +0000] [14357] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:28:20 +0000] [14357] [ERROR] Retrying in 1 second.
+[2017-03-15 17:28:21 +0000] [14357] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:28:21 +0000] [14357] [ERROR] Retrying in 1 second.
+[2017-03-15 17:28:22 +0000] [14357] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:28:22 +0000] [14357] [ERROR] Retrying in 1 second.
+[2017-03-15 17:28:23 +0000] [14357] [ERROR] Can't connect to ('127.0.0.1', 8001)
+[2017-03-15 17:28:25 +0000] [14407] [INFO] Starting gunicorn 19.6.0
+[2017-03-15 17:28:25 +0000] [14407] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:28:25 +0000] [14407] [ERROR] Retrying in 1 second.
+[2017-03-15 17:28:26 +0000] [14407] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:28:26 +0000] [14407] [ERROR] Retrying in 1 second.
+[2017-03-15 17:28:27 +0000] [14407] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:28:27 +0000] [14407] [ERROR] Retrying in 1 second.
+[2017-03-15 17:28:28 +0000] [14407] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:28:28 +0000] [14407] [ERROR] Retrying in 1 second.
+[2017-03-15 17:28:29 +0000] [14407] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:28:29 +0000] [14407] [ERROR] Retrying in 1 second.
+[2017-03-15 17:28:30 +0000] [14407] [ERROR] Can't connect to ('127.0.0.1', 8001)
+[2017-03-15 17:28:32 +0000] [14410] [INFO] Starting gunicorn 19.6.0
+[2017-03-15 17:28:32 +0000] [14410] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:28:32 +0000] [14410] [ERROR] Retrying in 1 second.
+[2017-03-15 17:28:33 +0000] [14410] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:28:33 +0000] [14410] [ERROR] Retrying in 1 second.
+[2017-03-15 17:28:34 +0000] [14410] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:28:34 +0000] [14410] [ERROR] Retrying in 1 second.
+[2017-03-15 17:28:35 +0000] [14410] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:28:35 +0000] [14410] [ERROR] Retrying in 1 second.
+[2017-03-15 17:28:36 +0000] [14410] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:28:36 +0000] [14410] [ERROR] Retrying in 1 second.
+[2017-03-15 17:28:37 +0000] [14410] [ERROR] Can't connect to ('127.0.0.1', 8001)
+[2017-03-15 17:28:38 +0000] [14413] [INFO] Starting gunicorn 19.6.0
+[2017-03-15 17:28:38 +0000] [14413] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:28:38 +0000] [14413] [ERROR] Retrying in 1 second.
+[2017-03-15 17:28:39 +0000] [14413] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:28:39 +0000] [14413] [ERROR] Retrying in 1 second.
+[2017-03-15 17:28:40 +0000] [14413] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:28:40 +0000] [14413] [ERROR] Retrying in 1 second.
+[2017-03-15 17:28:41 +0000] [14413] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:28:41 +0000] [14413] [ERROR] Retrying in 1 second.
+[2017-03-15 17:28:42 +0000] [14413] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:28:42 +0000] [14413] [ERROR] Retrying in 1 second.
+[2017-03-15 17:28:43 +0000] [14413] [ERROR] Can't connect to ('127.0.0.1', 8001)
+[2017-03-15 17:28:45 +0000] [14457] [INFO] Starting gunicorn 19.6.0
+[2017-03-15 17:28:45 +0000] [14457] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:28:45 +0000] [14457] [ERROR] Retrying in 1 second.
+[2017-03-15 17:28:46 +0000] [14457] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:28:46 +0000] [14457] [ERROR] Retrying in 1 second.
+[2017-03-15 17:28:47 +0000] [14457] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:28:47 +0000] [14457] [ERROR] Retrying in 1 second.
+[2017-03-15 17:28:48 +0000] [14457] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:28:48 +0000] [14457] [ERROR] Retrying in 1 second.
+[2017-03-15 17:28:49 +0000] [14457] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:28:49 +0000] [14457] [ERROR] Retrying in 1 second.
+[2017-03-15 17:28:50 +0000] [14457] [ERROR] Can't connect to ('127.0.0.1', 8001)
+[2017-03-15 17:28:52 +0000] [14460] [INFO] Starting gunicorn 19.6.0
+[2017-03-15 17:28:52 +0000] [14460] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:28:52 +0000] [14460] [ERROR] Retrying in 1 second.
+[2017-03-15 17:28:53 +0000] [14460] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:28:53 +0000] [14460] [ERROR] Retrying in 1 second.
+[2017-03-15 17:28:54 +0000] [14460] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:28:54 +0000] [14460] [ERROR] Retrying in 1 second.
+[2017-03-15 17:28:55 +0000] [14460] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:28:55 +0000] [14460] [ERROR] Retrying in 1 second.
+[2017-03-15 17:28:56 +0000] [14460] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:28:56 +0000] [14460] [ERROR] Retrying in 1 second.
+[2017-03-15 17:28:57 +0000] [14460] [ERROR] Can't connect to ('127.0.0.1', 8001)
+[2017-03-15 17:28:59 +0000] [14464] [INFO] Starting gunicorn 19.6.0
+[2017-03-15 17:28:59 +0000] [14464] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:28:59 +0000] [14464] [ERROR] Retrying in 1 second.
+[2017-03-15 17:29:00 +0000] [14464] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:29:00 +0000] [14464] [ERROR] Retrying in 1 second.
+[2017-03-15 17:29:01 +0000] [14464] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:29:01 +0000] [14464] [ERROR] Retrying in 1 second.
+[2017-03-15 17:29:02 +0000] [14464] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:29:02 +0000] [14464] [ERROR] Retrying in 1 second.
+[2017-03-15 17:29:03 +0000] [14464] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:29:03 +0000] [14464] [ERROR] Retrying in 1 second.
+[2017-03-15 17:29:04 +0000] [14464] [ERROR] Can't connect to ('127.0.0.1', 8001)
+[2017-03-15 17:29:06 +0000] [14515] [INFO] Starting gunicorn 19.6.0
+[2017-03-15 17:29:06 +0000] [14515] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:29:06 +0000] [14515] [ERROR] Retrying in 1 second.
+[2017-03-15 17:29:07 +0000] [14515] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:29:07 +0000] [14515] [ERROR] Retrying in 1 second.
+[2017-03-15 17:29:08 +0000] [14515] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:29:08 +0000] [14515] [ERROR] Retrying in 1 second.
+[2017-03-15 17:29:09 +0000] [14515] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:29:09 +0000] [14515] [ERROR] Retrying in 1 second.
+[2017-03-15 17:29:10 +0000] [14515] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:29:10 +0000] [14515] [ERROR] Retrying in 1 second.
+[2017-03-15 17:29:11 +0000] [14515] [ERROR] Can't connect to ('127.0.0.1', 8001)
+[2017-03-15 17:29:12 +0000] [14518] [INFO] Starting gunicorn 19.6.0
+[2017-03-15 17:29:12 +0000] [14518] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:29:12 +0000] [14518] [ERROR] Retrying in 1 second.
+[2017-03-15 17:29:13 +0000] [14518] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:29:13 +0000] [14518] [ERROR] Retrying in 1 second.
+[2017-03-15 17:29:14 +0000] [14518] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:29:14 +0000] [14518] [ERROR] Retrying in 1 second.
+[2017-03-15 17:29:15 +0000] [14518] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:29:15 +0000] [14518] [ERROR] Retrying in 1 second.
+[2017-03-15 17:29:16 +0000] [14518] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:29:16 +0000] [14518] [ERROR] Retrying in 1 second.
+[2017-03-15 17:29:17 +0000] [14518] [ERROR] Can't connect to ('127.0.0.1', 8001)
+[2017-03-15 17:29:19 +0000] [14522] [INFO] Starting gunicorn 19.6.0
+[2017-03-15 17:29:19 +0000] [14522] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:29:19 +0000] [14522] [ERROR] Retrying in 1 second.
+[2017-03-15 17:29:20 +0000] [14522] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:29:20 +0000] [14522] [ERROR] Retrying in 1 second.
+[2017-03-15 17:29:21 +0000] [14522] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:29:21 +0000] [14522] [ERROR] Retrying in 1 second.
+[2017-03-15 17:29:22 +0000] [14522] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:29:22 +0000] [14522] [ERROR] Retrying in 1 second.
+[2017-03-15 17:29:23 +0000] [14522] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:29:23 +0000] [14522] [ERROR] Retrying in 1 second.
+[2017-03-15 17:29:24 +0000] [14522] [ERROR] Can't connect to ('127.0.0.1', 8001)
+[2017-03-15 17:29:26 +0000] [14565] [INFO] Starting gunicorn 19.6.0
+[2017-03-15 17:29:26 +0000] [14565] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:29:26 +0000] [14565] [ERROR] Retrying in 1 second.
+[2017-03-15 17:29:27 +0000] [14565] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:29:27 +0000] [14565] [ERROR] Retrying in 1 second.
+[2017-03-15 17:29:28 +0000] [14565] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:29:28 +0000] [14565] [ERROR] Retrying in 1 second.
+[2017-03-15 17:29:29 +0000] [14565] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:29:29 +0000] [14565] [ERROR] Retrying in 1 second.
+[2017-03-15 17:29:30 +0000] [14565] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:29:30 +0000] [14565] [ERROR] Retrying in 1 second.
+[2017-03-15 17:29:31 +0000] [14565] [ERROR] Can't connect to ('127.0.0.1', 8001)
+[2017-03-15 17:29:32 +0000] [14568] [INFO] Starting gunicorn 19.6.0
+[2017-03-15 17:29:32 +0000] [14568] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:29:32 +0000] [14568] [ERROR] Retrying in 1 second.
+[2017-03-15 17:29:33 +0000] [14568] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:29:33 +0000] [14568] [ERROR] Retrying in 1 second.
+[2017-03-15 17:29:34 +0000] [14568] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:29:34 +0000] [14568] [ERROR] Retrying in 1 second.
+[2017-03-15 17:29:35 +0000] [14568] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:29:35 +0000] [14568] [ERROR] Retrying in 1 second.
+[2017-03-15 17:29:36 +0000] [14568] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:29:36 +0000] [14568] [ERROR] Retrying in 1 second.
+[2017-03-15 17:29:37 +0000] [14568] [ERROR] Can't connect to ('127.0.0.1', 8001)
+[2017-03-15 17:29:39 +0000] [14574] [INFO] Starting gunicorn 19.6.0
+[2017-03-15 17:29:39 +0000] [14574] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:29:39 +0000] [14574] [ERROR] Retrying in 1 second.
+[2017-03-15 17:29:40 +0000] [14574] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:29:40 +0000] [14574] [ERROR] Retrying in 1 second.
+[2017-03-15 17:29:41 +0000] [14574] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:29:41 +0000] [14574] [ERROR] Retrying in 1 second.
+[2017-03-15 17:29:42 +0000] [14574] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:29:42 +0000] [14574] [ERROR] Retrying in 1 second.
+[2017-03-15 17:29:43 +0000] [14574] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:29:43 +0000] [14574] [ERROR] Retrying in 1 second.
+[2017-03-15 17:29:44 +0000] [14574] [ERROR] Can't connect to ('127.0.0.1', 8001)
+[2017-03-15 17:29:46 +0000] [14621] [INFO] Starting gunicorn 19.6.0
+[2017-03-15 17:29:46 +0000] [14621] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:29:46 +0000] [14621] [ERROR] Retrying in 1 second.
+[2017-03-15 17:29:47 +0000] [14621] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:29:47 +0000] [14621] [ERROR] Retrying in 1 second.
+[2017-03-15 17:29:48 +0000] [14621] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:29:48 +0000] [14621] [ERROR] Retrying in 1 second.
+[2017-03-15 17:29:49 +0000] [14621] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:29:49 +0000] [14621] [ERROR] Retrying in 1 second.
+[2017-03-15 17:29:50 +0000] [14621] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:29:50 +0000] [14621] [ERROR] Retrying in 1 second.
+[2017-03-15 17:29:51 +0000] [14621] [ERROR] Can't connect to ('127.0.0.1', 8001)
+[2017-03-15 17:29:53 +0000] [14624] [INFO] Starting gunicorn 19.6.0
+[2017-03-15 17:29:53 +0000] [14624] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:29:53 +0000] [14624] [ERROR] Retrying in 1 second.
+[2017-03-15 17:29:54 +0000] [14624] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:29:54 +0000] [14624] [ERROR] Retrying in 1 second.
+[2017-03-15 17:29:55 +0000] [14624] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:29:55 +0000] [14624] [ERROR] Retrying in 1 second.
+[2017-03-15 17:29:56 +0000] [14624] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:29:56 +0000] [14624] [ERROR] Retrying in 1 second.
+[2017-03-15 17:29:57 +0000] [14624] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:29:57 +0000] [14624] [ERROR] Retrying in 1 second.
+[2017-03-15 17:29:58 +0000] [14624] [ERROR] Can't connect to ('127.0.0.1', 8001)
+[2017-03-15 17:29:59 +0000] [14668] [INFO] Starting gunicorn 19.6.0
+[2017-03-15 17:29:59 +0000] [14668] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:29:59 +0000] [14668] [ERROR] Retrying in 1 second.
+[2017-03-15 17:30:00 +0000] [14668] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:30:00 +0000] [14668] [ERROR] Retrying in 1 second.
+[2017-03-15 17:30:01 +0000] [14668] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:30:01 +0000] [14668] [ERROR] Retrying in 1 second.
+[2017-03-15 17:30:02 +0000] [14668] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:30:02 +0000] [14668] [ERROR] Retrying in 1 second.
+[2017-03-15 17:30:03 +0000] [14668] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:30:03 +0000] [14668] [ERROR] Retrying in 1 second.
+[2017-03-15 17:30:04 +0000] [14668] [ERROR] Can't connect to ('127.0.0.1', 8001)
+[2017-03-15 17:30:06 +0000] [14677] [INFO] Starting gunicorn 19.6.0
+[2017-03-15 17:30:06 +0000] [14677] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:30:06 +0000] [14677] [ERROR] Retrying in 1 second.
+[2017-03-15 17:30:07 +0000] [14677] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:30:07 +0000] [14677] [ERROR] Retrying in 1 second.
+[2017-03-15 17:30:08 +0000] [14677] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:30:08 +0000] [14677] [ERROR] Retrying in 1 second.
+[2017-03-15 17:30:09 +0000] [14677] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:30:09 +0000] [14677] [ERROR] Retrying in 1 second.
+[2017-03-15 17:30:10 +0000] [14677] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:30:10 +0000] [14677] [ERROR] Retrying in 1 second.
+[2017-03-15 17:30:11 +0000] [14677] [ERROR] Can't connect to ('127.0.0.1', 8001)
+[2017-03-15 17:30:13 +0000] [14680] [INFO] Starting gunicorn 19.6.0
+[2017-03-15 17:30:13 +0000] [14680] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:30:13 +0000] [14680] [ERROR] Retrying in 1 second.
+[2017-03-15 17:30:14 +0000] [14680] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:30:14 +0000] [14680] [ERROR] Retrying in 1 second.
+[2017-03-15 17:30:15 +0000] [14680] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:30:15 +0000] [14680] [ERROR] Retrying in 1 second.
+[2017-03-15 17:30:16 +0000] [14680] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:30:16 +0000] [14680] [ERROR] Retrying in 1 second.
+[2017-03-15 17:30:17 +0000] [14680] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:30:17 +0000] [14680] [ERROR] Retrying in 1 second.
+[2017-03-15 17:30:18 +0000] [14680] [ERROR] Can't connect to ('127.0.0.1', 8001)
+[2017-03-15 17:30:20 +0000] [14724] [INFO] Starting gunicorn 19.6.0
+[2017-03-15 17:30:20 +0000] [14724] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:30:20 +0000] [14724] [ERROR] Retrying in 1 second.
+[2017-03-15 17:30:21 +0000] [14724] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:30:21 +0000] [14724] [ERROR] Retrying in 1 second.
+[2017-03-15 17:30:22 +0000] [14724] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:30:22 +0000] [14724] [ERROR] Retrying in 1 second.
+[2017-03-15 17:30:23 +0000] [14724] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:30:23 +0000] [14724] [ERROR] Retrying in 1 second.
+[2017-03-15 17:30:24 +0000] [14724] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:30:24 +0000] [14724] [ERROR] Retrying in 1 second.
+[2017-03-15 17:30:25 +0000] [14724] [ERROR] Can't connect to ('127.0.0.1', 8001)
+[2017-03-15 17:30:27 +0000] [14727] [INFO] Starting gunicorn 19.6.0
+[2017-03-15 17:30:27 +0000] [14727] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:30:27 +0000] [14727] [ERROR] Retrying in 1 second.
+[2017-03-15 17:30:28 +0000] [14727] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:30:28 +0000] [14727] [ERROR] Retrying in 1 second.
+[2017-03-15 17:30:29 +0000] [14727] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:30:29 +0000] [14727] [ERROR] Retrying in 1 second.
+[2017-03-15 17:30:30 +0000] [14727] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:30:30 +0000] [14727] [ERROR] Retrying in 1 second.
+[2017-03-15 17:30:31 +0000] [14727] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:30:31 +0000] [14727] [ERROR] Retrying in 1 second.
+[2017-03-15 17:30:32 +0000] [14727] [ERROR] Can't connect to ('127.0.0.1', 8001)
+[2017-03-15 17:30:33 +0000] [14730] [INFO] Starting gunicorn 19.6.0
+[2017-03-15 17:30:33 +0000] [14730] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:30:33 +0000] [14730] [ERROR] Retrying in 1 second.
+[2017-03-15 17:30:34 +0000] [14730] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:30:34 +0000] [14730] [ERROR] Retrying in 1 second.
+[2017-03-15 17:30:35 +0000] [14730] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:30:35 +0000] [14730] [ERROR] Retrying in 1 second.
+[2017-03-15 17:30:36 +0000] [14730] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:30:36 +0000] [14730] [ERROR] Retrying in 1 second.
+[2017-03-15 17:30:37 +0000] [14730] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:30:37 +0000] [14730] [ERROR] Retrying in 1 second.
+[2017-03-15 17:30:38 +0000] [14730] [ERROR] Can't connect to ('127.0.0.1', 8001)
+[2017-03-15 17:30:40 +0000] [14774] [INFO] Starting gunicorn 19.6.0
+[2017-03-15 17:30:40 +0000] [14774] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:30:40 +0000] [14774] [ERROR] Retrying in 1 second.
+[2017-03-15 17:30:41 +0000] [14774] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:30:41 +0000] [14774] [ERROR] Retrying in 1 second.
+[2017-03-15 17:30:42 +0000] [14774] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:30:42 +0000] [14774] [ERROR] Retrying in 1 second.
+[2017-03-15 17:30:43 +0000] [14774] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:30:43 +0000] [14774] [ERROR] Retrying in 1 second.
+[2017-03-15 17:30:44 +0000] [14774] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:30:44 +0000] [14774] [ERROR] Retrying in 1 second.
+[2017-03-15 17:30:45 +0000] [14774] [ERROR] Can't connect to ('127.0.0.1', 8001)
+[2017-03-15 17:30:47 +0000] [14777] [INFO] Starting gunicorn 19.6.0
+[2017-03-15 17:30:47 +0000] [14777] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:30:47 +0000] [14777] [ERROR] Retrying in 1 second.
+[2017-03-15 17:30:48 +0000] [14777] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:30:48 +0000] [14777] [ERROR] Retrying in 1 second.
+[2017-03-15 17:30:49 +0000] [14777] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:30:49 +0000] [14777] [ERROR] Retrying in 1 second.
+[2017-03-15 17:30:50 +0000] [14777] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:30:50 +0000] [14777] [ERROR] Retrying in 1 second.
+[2017-03-15 17:30:51 +0000] [14777] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:30:51 +0000] [14777] [ERROR] Retrying in 1 second.
+[2017-03-15 17:30:52 +0000] [14777] [ERROR] Can't connect to ('127.0.0.1', 8001)
+[2017-03-15 17:30:54 +0000] [14781] [INFO] Starting gunicorn 19.6.0
+[2017-03-15 17:30:54 +0000] [14781] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:30:54 +0000] [14781] [ERROR] Retrying in 1 second.
+[2017-03-15 17:30:55 +0000] [14781] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:30:55 +0000] [14781] [ERROR] Retrying in 1 second.
+[2017-03-15 17:30:56 +0000] [14781] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:30:56 +0000] [14781] [ERROR] Retrying in 1 second.
+[2017-03-15 17:30:57 +0000] [14781] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:30:57 +0000] [14781] [ERROR] Retrying in 1 second.
+[2017-03-15 17:30:58 +0000] [14781] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:30:58 +0000] [14781] [ERROR] Retrying in 1 second.
+[2017-03-15 17:30:59 +0000] [14781] [ERROR] Can't connect to ('127.0.0.1', 8001)
+[2017-03-15 17:31:00 +0000] [14830] [INFO] Starting gunicorn 19.6.0
+[2017-03-15 17:31:00 +0000] [14830] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:31:00 +0000] [14830] [ERROR] Retrying in 1 second.
+[2017-03-15 17:31:01 +0000] [14830] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:31:01 +0000] [14830] [ERROR] Retrying in 1 second.
+[2017-03-15 17:31:02 +0000] [14830] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:31:02 +0000] [14830] [ERROR] Retrying in 1 second.
+[2017-03-15 17:31:03 +0000] [14830] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:31:03 +0000] [14830] [ERROR] Retrying in 1 second.
+[2017-03-15 17:31:04 +0000] [14830] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:31:04 +0000] [14830] [ERROR] Retrying in 1 second.
+[2017-03-15 17:31:05 +0000] [14830] [ERROR] Can't connect to ('127.0.0.1', 8001)
+[2017-03-15 17:31:07 +0000] [14839] [INFO] Starting gunicorn 19.6.0
+[2017-03-15 17:31:07 +0000] [14839] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:31:07 +0000] [14839] [ERROR] Retrying in 1 second.
+[2017-03-15 17:31:08 +0000] [14839] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:31:08 +0000] [14839] [ERROR] Retrying in 1 second.
+[2017-03-15 17:31:09 +0000] [14839] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:31:09 +0000] [14839] [ERROR] Retrying in 1 second.
+[2017-03-15 17:31:10 +0000] [14839] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:31:10 +0000] [14839] [ERROR] Retrying in 1 second.
+[2017-03-15 17:31:11 +0000] [14839] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:31:11 +0000] [14839] [ERROR] Retrying in 1 second.
+[2017-03-15 17:31:12 +0000] [14839] [ERROR] Can't connect to ('127.0.0.1', 8001)
+[2017-03-15 17:31:14 +0000] [14843] [INFO] Starting gunicorn 19.6.0
+[2017-03-15 17:31:14 +0000] [14843] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:31:14 +0000] [14843] [ERROR] Retrying in 1 second.
+[2017-03-15 17:31:15 +0000] [14843] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:31:15 +0000] [14843] [ERROR] Retrying in 1 second.
+[2017-03-15 17:31:16 +0000] [14843] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:31:16 +0000] [14843] [ERROR] Retrying in 1 second.
+[2017-03-15 17:31:17 +0000] [14843] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:31:17 +0000] [14843] [ERROR] Retrying in 1 second.
+[2017-03-15 17:31:18 +0000] [14843] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:31:18 +0000] [14843] [ERROR] Retrying in 1 second.
+[2017-03-15 17:31:19 +0000] [14843] [ERROR] Can't connect to ('127.0.0.1', 8001)
+[2017-03-15 17:31:21 +0000] [14886] [INFO] Starting gunicorn 19.6.0
+[2017-03-15 17:31:21 +0000] [14886] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:31:21 +0000] [14886] [ERROR] Retrying in 1 second.
+[2017-03-15 17:31:22 +0000] [14886] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:31:22 +0000] [14886] [ERROR] Retrying in 1 second.
+[2017-03-15 17:31:23 +0000] [14886] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:31:23 +0000] [14886] [ERROR] Retrying in 1 second.
+[2017-03-15 17:31:24 +0000] [14886] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:31:24 +0000] [14886] [ERROR] Retrying in 1 second.
+[2017-03-15 17:31:25 +0000] [14886] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:31:25 +0000] [14886] [ERROR] Retrying in 1 second.
+[2017-03-15 17:31:26 +0000] [14886] [ERROR] Can't connect to ('127.0.0.1', 8001)
+[2017-03-15 17:31:28 +0000] [14889] [INFO] Starting gunicorn 19.6.0
+[2017-03-15 17:31:28 +0000] [14889] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:31:28 +0000] [14889] [ERROR] Retrying in 1 second.
+[2017-03-15 17:31:29 +0000] [14889] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:31:29 +0000] [14889] [ERROR] Retrying in 1 second.
+[2017-03-15 17:31:30 +0000] [14889] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:31:30 +0000] [14889] [ERROR] Retrying in 1 second.
+[2017-03-15 17:31:31 +0000] [14889] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:31:31 +0000] [14889] [ERROR] Retrying in 1 second.
+[2017-03-15 17:31:32 +0000] [14889] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:31:32 +0000] [14889] [ERROR] Retrying in 1 second.
+[2017-03-15 17:31:33 +0000] [14889] [ERROR] Can't connect to ('127.0.0.1', 8001)
+[2017-03-15 17:31:34 +0000] [14894] [INFO] Starting gunicorn 19.6.0
+[2017-03-15 17:31:34 +0000] [14894] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:31:34 +0000] [14894] [ERROR] Retrying in 1 second.
+[2017-03-15 17:31:35 +0000] [14894] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:31:35 +0000] [14894] [ERROR] Retrying in 1 second.
+[2017-03-15 17:31:36 +0000] [14894] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:31:36 +0000] [14894] [ERROR] Retrying in 1 second.
+[2017-03-15 17:31:37 +0000] [14894] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:31:37 +0000] [14894] [ERROR] Retrying in 1 second.
+[2017-03-15 17:31:38 +0000] [14894] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:31:38 +0000] [14894] [ERROR] Retrying in 1 second.
+[2017-03-15 17:31:39 +0000] [14894] [ERROR] Can't connect to ('127.0.0.1', 8001)
+[2017-03-15 17:31:41 +0000] [14936] [INFO] Starting gunicorn 19.6.0
+[2017-03-15 17:31:41 +0000] [14936] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:31:41 +0000] [14936] [ERROR] Retrying in 1 second.
+[2017-03-15 17:31:42 +0000] [14936] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:31:42 +0000] [14936] [ERROR] Retrying in 1 second.
+[2017-03-15 17:31:43 +0000] [14936] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:31:43 +0000] [14936] [ERROR] Retrying in 1 second.
+[2017-03-15 17:31:44 +0000] [14936] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:31:44 +0000] [14936] [ERROR] Retrying in 1 second.
+[2017-03-15 17:31:45 +0000] [14936] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:31:45 +0000] [14936] [ERROR] Retrying in 1 second.
+[2017-03-15 17:31:46 +0000] [14936] [ERROR] Can't connect to ('127.0.0.1', 8001)
+[2017-03-15 17:31:48 +0000] [14939] [INFO] Starting gunicorn 19.6.0
+[2017-03-15 17:31:48 +0000] [14939] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:31:48 +0000] [14939] [ERROR] Retrying in 1 second.
+[2017-03-15 17:31:49 +0000] [14939] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:31:49 +0000] [14939] [ERROR] Retrying in 1 second.
+[2017-03-15 17:31:50 +0000] [14939] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:31:50 +0000] [14939] [ERROR] Retrying in 1 second.
+[2017-03-15 17:31:51 +0000] [14939] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:31:51 +0000] [14939] [ERROR] Retrying in 1 second.
+[2017-03-15 17:31:52 +0000] [14939] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:31:52 +0000] [14939] [ERROR] Retrying in 1 second.
+[2017-03-15 17:31:53 +0000] [14939] [ERROR] Can't connect to ('127.0.0.1', 8001)
+[2017-03-15 17:31:54 +0000] [14983] [INFO] Starting gunicorn 19.6.0
+[2017-03-15 17:31:54 +0000] [14983] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:31:54 +0000] [14983] [ERROR] Retrying in 1 second.
+[2017-03-15 17:31:55 +0000] [14983] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:31:55 +0000] [14983] [ERROR] Retrying in 1 second.
+[2017-03-15 17:31:56 +0000] [14983] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:31:56 +0000] [14983] [ERROR] Retrying in 1 second.
+[2017-03-15 17:31:57 +0000] [14983] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:31:57 +0000] [14983] [ERROR] Retrying in 1 second.
+[2017-03-15 17:31:58 +0000] [14983] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:31:58 +0000] [14983] [ERROR] Retrying in 1 second.
+[2017-03-15 17:31:59 +0000] [14983] [ERROR] Can't connect to ('127.0.0.1', 8001)
+[2017-03-15 17:32:01 +0000] [14986] [INFO] Starting gunicorn 19.6.0
+[2017-03-15 17:32:01 +0000] [14986] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:32:01 +0000] [14986] [ERROR] Retrying in 1 second.
+[2017-03-15 17:32:02 +0000] [14986] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:32:02 +0000] [14986] [ERROR] Retrying in 1 second.
+[2017-03-15 17:32:03 +0000] [14986] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:32:03 +0000] [14986] [ERROR] Retrying in 1 second.
+[2017-03-15 17:32:04 +0000] [14986] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:32:04 +0000] [14986] [ERROR] Retrying in 1 second.
+[2017-03-15 17:32:05 +0000] [14986] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:32:05 +0000] [14986] [ERROR] Retrying in 1 second.
+[2017-03-15 17:32:06 +0000] [14986] [ERROR] Can't connect to ('127.0.0.1', 8001)
+[2017-03-15 17:32:08 +0000] [14995] [INFO] Starting gunicorn 19.6.0
+[2017-03-15 17:32:08 +0000] [14995] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:32:08 +0000] [14995] [ERROR] Retrying in 1 second.
+[2017-03-15 17:32:09 +0000] [14995] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:32:09 +0000] [14995] [ERROR] Retrying in 1 second.
+[2017-03-15 17:32:10 +0000] [14995] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:32:10 +0000] [14995] [ERROR] Retrying in 1 second.
+[2017-03-15 17:32:11 +0000] [14995] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:32:11 +0000] [14995] [ERROR] Retrying in 1 second.
+[2017-03-15 17:32:12 +0000] [14995] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:32:12 +0000] [14995] [ERROR] Retrying in 1 second.
+[2017-03-15 17:32:13 +0000] [14995] [ERROR] Can't connect to ('127.0.0.1', 8001)
+[2017-03-15 17:32:15 +0000] [15045] [INFO] Starting gunicorn 19.6.0
+[2017-03-15 17:32:15 +0000] [15045] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:32:15 +0000] [15045] [ERROR] Retrying in 1 second.
+[2017-03-15 17:32:16 +0000] [15045] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:32:16 +0000] [15045] [ERROR] Retrying in 1 second.
+[2017-03-15 17:32:17 +0000] [15045] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:32:17 +0000] [15045] [ERROR] Retrying in 1 second.
+[2017-03-15 17:32:18 +0000] [15045] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:32:18 +0000] [15045] [ERROR] Retrying in 1 second.
+[2017-03-15 17:32:19 +0000] [15045] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:32:19 +0000] [15045] [ERROR] Retrying in 1 second.
+[2017-03-15 17:32:20 +0000] [15045] [ERROR] Can't connect to ('127.0.0.1', 8001)
+[2017-03-15 17:32:21 +0000] [15048] [INFO] Starting gunicorn 19.6.0
+[2017-03-15 17:32:21 +0000] [15048] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:32:21 +0000] [15048] [ERROR] Retrying in 1 second.
+[2017-03-15 17:32:22 +0000] [15048] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:32:22 +0000] [15048] [ERROR] Retrying in 1 second.
+[2017-03-15 17:32:23 +0000] [15048] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:32:23 +0000] [15048] [ERROR] Retrying in 1 second.
+[2017-03-15 17:32:24 +0000] [15048] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:32:24 +0000] [15048] [ERROR] Retrying in 1 second.
+[2017-03-15 17:32:25 +0000] [15048] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:32:25 +0000] [15048] [ERROR] Retrying in 1 second.
+[2017-03-15 17:32:26 +0000] [15048] [ERROR] Can't connect to ('127.0.0.1', 8001)
+[2017-03-15 17:32:28 +0000] [15053] [INFO] Starting gunicorn 19.6.0
+[2017-03-15 17:32:28 +0000] [15053] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:32:28 +0000] [15053] [ERROR] Retrying in 1 second.
+[2017-03-15 17:32:29 +0000] [15053] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:32:29 +0000] [15053] [ERROR] Retrying in 1 second.
+[2017-03-15 17:32:30 +0000] [15053] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:32:30 +0000] [15053] [ERROR] Retrying in 1 second.
+[2017-03-15 17:32:31 +0000] [15053] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:32:31 +0000] [15053] [ERROR] Retrying in 1 second.
+[2017-03-15 17:32:32 +0000] [15053] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:32:32 +0000] [15053] [ERROR] Retrying in 1 second.
+[2017-03-15 17:32:33 +0000] [15053] [ERROR] Can't connect to ('127.0.0.1', 8001)
+[2017-03-15 17:32:35 +0000] [15097] [INFO] Starting gunicorn 19.6.0
+[2017-03-15 17:32:35 +0000] [15097] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:32:35 +0000] [15097] [ERROR] Retrying in 1 second.
+[2017-03-15 17:32:36 +0000] [15097] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:32:36 +0000] [15097] [ERROR] Retrying in 1 second.
+[2017-03-15 17:32:37 +0000] [15097] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:32:37 +0000] [15097] [ERROR] Retrying in 1 second.
+[2017-03-15 17:32:38 +0000] [15097] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:32:38 +0000] [15097] [ERROR] Retrying in 1 second.
+[2017-03-15 17:32:39 +0000] [15097] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:32:39 +0000] [15097] [ERROR] Retrying in 1 second.
+[2017-03-15 17:32:40 +0000] [15097] [ERROR] Can't connect to ('127.0.0.1', 8001)
+[2017-03-15 17:32:42 +0000] [15100] [INFO] Starting gunicorn 19.6.0
+[2017-03-15 17:32:42 +0000] [15100] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:32:42 +0000] [15100] [ERROR] Retrying in 1 second.
+[2017-03-15 17:32:43 +0000] [15100] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:32:43 +0000] [15100] [ERROR] Retrying in 1 second.
+[2017-03-15 17:32:44 +0000] [15100] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:32:44 +0000] [15100] [ERROR] Retrying in 1 second.
+[2017-03-15 17:32:45 +0000] [15100] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:32:45 +0000] [15100] [ERROR] Retrying in 1 second.
+[2017-03-15 17:32:46 +0000] [15100] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:32:46 +0000] [15100] [ERROR] Retrying in 1 second.
+[2017-03-15 17:32:47 +0000] [15100] [ERROR] Can't connect to ('127.0.0.1', 8001)
+[2017-03-15 17:32:49 +0000] [15104] [INFO] Starting gunicorn 19.6.0
+[2017-03-15 17:32:49 +0000] [15104] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:32:49 +0000] [15104] [ERROR] Retrying in 1 second.
+[2017-03-15 17:32:50 +0000] [15104] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:32:50 +0000] [15104] [ERROR] Retrying in 1 second.
+[2017-03-15 17:32:51 +0000] [15104] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:32:51 +0000] [15104] [ERROR] Retrying in 1 second.
+[2017-03-15 17:32:52 +0000] [15104] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:32:52 +0000] [15104] [ERROR] Retrying in 1 second.
+[2017-03-15 17:32:53 +0000] [15104] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:32:53 +0000] [15104] [ERROR] Retrying in 1 second.
+[2017-03-15 17:32:54 +0000] [15104] [ERROR] Can't connect to ('127.0.0.1', 8001)
+[2017-03-15 17:32:55 +0000] [15147] [INFO] Starting gunicorn 19.6.0
+[2017-03-15 17:32:55 +0000] [15147] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:32:55 +0000] [15147] [ERROR] Retrying in 1 second.
+[2017-03-15 17:32:56 +0000] [15147] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:32:56 +0000] [15147] [ERROR] Retrying in 1 second.
+[2017-03-15 17:32:57 +0000] [15147] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:32:57 +0000] [15147] [ERROR] Retrying in 1 second.
+[2017-03-15 17:32:58 +0000] [15147] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:32:58 +0000] [15147] [ERROR] Retrying in 1 second.
+[2017-03-15 17:32:59 +0000] [15147] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:32:59 +0000] [15147] [ERROR] Retrying in 1 second.
+[2017-03-15 17:33:00 +0000] [15147] [ERROR] Can't connect to ('127.0.0.1', 8001)
+[2017-03-15 17:33:03 +0000] [15154] [INFO] Starting gunicorn 19.6.0
+[2017-03-15 17:33:03 +0000] [15154] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:33:03 +0000] [15154] [ERROR] Retrying in 1 second.
+[2017-03-15 17:33:04 +0000] [15154] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:33:04 +0000] [15154] [ERROR] Retrying in 1 second.
+[2017-03-15 17:33:05 +0000] [15154] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:33:05 +0000] [15154] [ERROR] Retrying in 1 second.
+[2017-03-15 17:33:06 +0000] [15154] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:33:06 +0000] [15154] [ERROR] Retrying in 1 second.
+[2017-03-15 17:33:07 +0000] [15154] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:33:07 +0000] [15154] [ERROR] Retrying in 1 second.
+[2017-03-15 17:33:08 +0000] [15154] [ERROR] Can't connect to ('127.0.0.1', 8001)
+[2017-03-15 17:33:09 +0000] [15160] [INFO] Starting gunicorn 19.6.0
+[2017-03-15 17:33:09 +0000] [15160] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:33:09 +0000] [15160] [ERROR] Retrying in 1 second.
+[2017-03-15 17:33:10 +0000] [15160] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:33:10 +0000] [15160] [ERROR] Retrying in 1 second.
+[2017-03-15 17:33:11 +0000] [15160] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:33:11 +0000] [15160] [ERROR] Retrying in 1 second.
+[2017-03-15 17:33:12 +0000] [15160] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:33:13 +0000] [15160] [ERROR] Retrying in 1 second.
+[2017-03-15 17:33:14 +0000] [15160] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:33:14 +0000] [15160] [ERROR] Retrying in 1 second.
+[2017-03-15 17:33:15 +0000] [15160] [ERROR] Can't connect to ('127.0.0.1', 8001)
+[2017-03-15 17:33:16 +0000] [15203] [INFO] Starting gunicorn 19.6.0
+[2017-03-15 17:33:16 +0000] [15203] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:33:16 +0000] [15203] [ERROR] Retrying in 1 second.
+[2017-03-15 17:33:17 +0000] [15203] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:33:17 +0000] [15203] [ERROR] Retrying in 1 second.
+[2017-03-15 17:33:18 +0000] [15203] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:33:18 +0000] [15203] [ERROR] Retrying in 1 second.
+[2017-03-15 17:33:19 +0000] [15203] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:33:19 +0000] [15203] [ERROR] Retrying in 1 second.
+[2017-03-15 17:33:20 +0000] [15203] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:33:20 +0000] [15203] [ERROR] Retrying in 1 second.
+[2017-03-15 17:33:21 +0000] [15203] [ERROR] Can't connect to ('127.0.0.1', 8001)
+[2017-03-15 17:33:23 +0000] [15206] [INFO] Starting gunicorn 19.6.0
+[2017-03-15 17:33:23 +0000] [15206] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:33:23 +0000] [15206] [ERROR] Retrying in 1 second.
+[2017-03-15 17:33:24 +0000] [15206] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:33:24 +0000] [15206] [ERROR] Retrying in 1 second.
+[2017-03-15 17:33:25 +0000] [15206] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:33:25 +0000] [15206] [ERROR] Retrying in 1 second.
+[2017-03-15 17:33:26 +0000] [15206] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:33:26 +0000] [15206] [ERROR] Retrying in 1 second.
+[2017-03-15 17:33:27 +0000] [15206] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:33:27 +0000] [15206] [ERROR] Retrying in 1 second.
+[2017-03-15 17:33:28 +0000] [15206] [ERROR] Can't connect to ('127.0.0.1', 8001)
+[2017-03-15 17:33:30 +0000] [15211] [INFO] Starting gunicorn 19.6.0
+[2017-03-15 17:33:30 +0000] [15211] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:33:30 +0000] [15211] [ERROR] Retrying in 1 second.
+[2017-03-15 17:33:31 +0000] [15211] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:33:31 +0000] [15211] [ERROR] Retrying in 1 second.
+[2017-03-15 17:33:32 +0000] [15211] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:33:32 +0000] [15211] [ERROR] Retrying in 1 second.
+[2017-03-15 17:33:33 +0000] [15211] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:33:33 +0000] [15211] [ERROR] Retrying in 1 second.
+[2017-03-15 17:33:34 +0000] [15211] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:33:34 +0000] [15211] [ERROR] Retrying in 1 second.
+[2017-03-15 17:33:35 +0000] [15211] [ERROR] Can't connect to ('127.0.0.1', 8001)
+[2017-03-15 17:33:37 +0000] [15259] [INFO] Starting gunicorn 19.6.0
+[2017-03-15 17:33:37 +0000] [15259] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:33:37 +0000] [15259] [ERROR] Retrying in 1 second.
+[2017-03-15 17:33:38 +0000] [15259] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:33:38 +0000] [15259] [ERROR] Retrying in 1 second.
+[2017-03-15 17:33:39 +0000] [15259] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:33:39 +0000] [15259] [ERROR] Retrying in 1 second.
+[2017-03-15 17:33:40 +0000] [15259] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:33:40 +0000] [15259] [ERROR] Retrying in 1 second.
+[2017-03-15 17:33:41 +0000] [15259] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:33:41 +0000] [15259] [ERROR] Retrying in 1 second.
+[2017-03-15 17:33:42 +0000] [15259] [ERROR] Can't connect to ('127.0.0.1', 8001)
+[2017-03-15 17:33:44 +0000] [15262] [INFO] Starting gunicorn 19.6.0
+[2017-03-15 17:33:44 +0000] [15262] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:33:44 +0000] [15262] [ERROR] Retrying in 1 second.
+[2017-03-15 17:33:45 +0000] [15262] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:33:45 +0000] [15262] [ERROR] Retrying in 1 second.
+[2017-03-15 17:33:46 +0000] [15262] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:33:46 +0000] [15262] [ERROR] Retrying in 1 second.
+[2017-03-15 17:33:47 +0000] [15262] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:33:47 +0000] [15262] [ERROR] Retrying in 1 second.
+[2017-03-15 17:33:48 +0000] [15262] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:33:48 +0000] [15262] [ERROR] Retrying in 1 second.
+[2017-03-15 17:33:49 +0000] [15262] [ERROR] Can't connect to ('127.0.0.1', 8001)
+[2017-03-15 17:33:50 +0000] [15306] [INFO] Starting gunicorn 19.6.0
+[2017-03-15 17:33:50 +0000] [15306] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:33:50 +0000] [15306] [ERROR] Retrying in 1 second.
+[2017-03-15 17:33:51 +0000] [15306] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:33:51 +0000] [15306] [ERROR] Retrying in 1 second.
+[2017-03-15 17:33:52 +0000] [15306] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:33:52 +0000] [15306] [ERROR] Retrying in 1 second.
+[2017-03-15 17:33:53 +0000] [15306] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:33:53 +0000] [15306] [ERROR] Retrying in 1 second.
+[2017-03-15 17:33:54 +0000] [15306] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:33:54 +0000] [15306] [ERROR] Retrying in 1 second.
+[2017-03-15 17:33:55 +0000] [15306] [ERROR] Can't connect to ('127.0.0.1', 8001)
+[2017-03-15 17:33:57 +0000] [15309] [INFO] Starting gunicorn 19.6.0
+[2017-03-15 17:33:57 +0000] [15309] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:33:57 +0000] [15309] [ERROR] Retrying in 1 second.
+[2017-03-15 17:33:58 +0000] [15309] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:33:58 +0000] [15309] [ERROR] Retrying in 1 second.
+[2017-03-15 17:33:59 +0000] [15309] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:33:59 +0000] [15309] [ERROR] Retrying in 1 second.
+[2017-03-15 17:34:00 +0000] [15309] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:34:00 +0000] [15309] [ERROR] Retrying in 1 second.
+[2017-03-15 17:34:01 +0000] [15309] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:34:01 +0000] [15309] [ERROR] Retrying in 1 second.
+[2017-03-15 17:34:02 +0000] [15309] [ERROR] Can't connect to ('127.0.0.1', 8001)
+[2017-03-15 17:34:04 +0000] [15318] [INFO] Starting gunicorn 19.6.0
+[2017-03-15 17:34:04 +0000] [15318] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:34:04 +0000] [15318] [ERROR] Retrying in 1 second.
+[2017-03-15 17:34:05 +0000] [15318] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:34:05 +0000] [15318] [ERROR] Retrying in 1 second.
+[2017-03-15 17:34:06 +0000] [15318] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:34:06 +0000] [15318] [ERROR] Retrying in 1 second.
+[2017-03-15 17:34:07 +0000] [15318] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:34:07 +0000] [15318] [ERROR] Retrying in 1 second.
+[2017-03-15 17:34:08 +0000] [15318] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:34:08 +0000] [15318] [ERROR] Retrying in 1 second.
+[2017-03-15 17:34:09 +0000] [15318] [ERROR] Can't connect to ('127.0.0.1', 8001)
+[2017-03-15 17:34:11 +0000] [15362] [INFO] Starting gunicorn 19.6.0
+[2017-03-15 17:34:11 +0000] [15362] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:34:11 +0000] [15362] [ERROR] Retrying in 1 second.
+[2017-03-15 17:34:12 +0000] [15362] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:34:12 +0000] [15362] [ERROR] Retrying in 1 second.
+[2017-03-15 17:34:13 +0000] [15362] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:34:13 +0000] [15362] [ERROR] Retrying in 1 second.
+[2017-03-15 17:34:14 +0000] [15362] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:34:14 +0000] [15362] [ERROR] Retrying in 1 second.
+[2017-03-15 17:34:15 +0000] [15362] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:34:15 +0000] [15362] [ERROR] Retrying in 1 second.
+[2017-03-15 17:34:16 +0000] [15362] [ERROR] Can't connect to ('127.0.0.1', 8001)
+[2017-03-15 17:34:18 +0000] [15365] [INFO] Starting gunicorn 19.6.0
+[2017-03-15 17:34:18 +0000] [15365] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:34:18 +0000] [15365] [ERROR] Retrying in 1 second.
+[2017-03-15 17:34:19 +0000] [15365] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:34:19 +0000] [15365] [ERROR] Retrying in 1 second.
+[2017-03-15 17:34:20 +0000] [15365] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:34:20 +0000] [15365] [ERROR] Retrying in 1 second.
+[2017-03-15 17:34:21 +0000] [15365] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:34:21 +0000] [15365] [ERROR] Retrying in 1 second.
+[2017-03-15 17:34:22 +0000] [15365] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:34:22 +0000] [15365] [ERROR] Retrying in 1 second.
+[2017-03-15 17:34:23 +0000] [15365] [ERROR] Can't connect to ('127.0.0.1', 8001)
+[2017-03-15 17:34:24 +0000] [15369] [INFO] Starting gunicorn 19.6.0
+[2017-03-15 17:34:24 +0000] [15369] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:34:24 +0000] [15369] [ERROR] Retrying in 1 second.
+[2017-03-15 17:34:25 +0000] [15369] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:34:25 +0000] [15369] [ERROR] Retrying in 1 second.
+[2017-03-15 17:34:26 +0000] [15369] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:34:26 +0000] [15369] [ERROR] Retrying in 1 second.
+[2017-03-15 17:34:27 +0000] [15369] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:34:27 +0000] [15369] [ERROR] Retrying in 1 second.
+[2017-03-15 17:34:28 +0000] [15369] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:34:28 +0000] [15369] [ERROR] Retrying in 1 second.
+[2017-03-15 17:34:29 +0000] [15369] [ERROR] Can't connect to ('127.0.0.1', 8001)
+[2017-03-15 17:34:31 +0000] [15412] [INFO] Starting gunicorn 19.6.0
+[2017-03-15 17:34:31 +0000] [15412] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:34:31 +0000] [15412] [ERROR] Retrying in 1 second.
+[2017-03-15 17:34:32 +0000] [15412] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:34:32 +0000] [15412] [ERROR] Retrying in 1 second.
+[2017-03-15 17:34:33 +0000] [15412] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:34:33 +0000] [15412] [ERROR] Retrying in 1 second.
+[2017-03-15 17:34:34 +0000] [15412] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:34:34 +0000] [15412] [ERROR] Retrying in 1 second.
+[2017-03-15 17:34:35 +0000] [15412] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:34:35 +0000] [15412] [ERROR] Retrying in 1 second.
+[2017-03-15 17:34:36 +0000] [15412] [ERROR] Can't connect to ('127.0.0.1', 8001)
+[2017-03-15 17:34:38 +0000] [15417] [INFO] Starting gunicorn 19.6.0
+[2017-03-15 17:34:38 +0000] [15417] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:34:38 +0000] [15417] [ERROR] Retrying in 1 second.
+[2017-03-15 17:34:39 +0000] [15417] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:34:39 +0000] [15417] [ERROR] Retrying in 1 second.
+[2017-03-15 17:34:40 +0000] [15417] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:34:40 +0000] [15417] [ERROR] Retrying in 1 second.
+[2017-03-15 17:34:41 +0000] [15417] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:34:41 +0000] [15417] [ERROR] Retrying in 1 second.
+[2017-03-15 17:34:42 +0000] [15417] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:34:42 +0000] [15417] [ERROR] Retrying in 1 second.
+[2017-03-15 17:34:43 +0000] [15417] [ERROR] Can't connect to ('127.0.0.1', 8001)
+[2017-03-15 17:34:45 +0000] [15493] [INFO] Starting gunicorn 19.6.0
+[2017-03-15 17:34:45 +0000] [15493] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:34:45 +0000] [15493] [ERROR] Retrying in 1 second.
+[2017-03-15 17:34:46 +0000] [15493] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:34:46 +0000] [15493] [ERROR] Retrying in 1 second.
+[2017-03-15 17:34:47 +0000] [15493] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:34:47 +0000] [15493] [ERROR] Retrying in 1 second.
+[2017-03-15 17:34:48 +0000] [15493] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:34:48 +0000] [15493] [ERROR] Retrying in 1 second.
+[2017-03-15 17:34:49 +0000] [15493] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:34:49 +0000] [15493] [ERROR] Retrying in 1 second.
+[2017-03-15 17:34:50 +0000] [15493] [ERROR] Can't connect to ('127.0.0.1', 8001)
+[2017-03-15 17:34:52 +0000] [15541] [INFO] Starting gunicorn 19.6.0
+[2017-03-15 17:34:52 +0000] [15541] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:34:52 +0000] [15541] [ERROR] Retrying in 1 second.
+[2017-03-15 17:34:53 +0000] [15541] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:34:53 +0000] [15541] [ERROR] Retrying in 1 second.
+[2017-03-15 17:34:54 +0000] [15541] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:34:54 +0000] [15541] [ERROR] Retrying in 1 second.
+[2017-03-15 17:34:55 +0000] [15541] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:34:55 +0000] [15541] [ERROR] Retrying in 1 second.
+[2017-03-15 17:34:56 +0000] [15541] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:34:56 +0000] [15541] [ERROR] Retrying in 1 second.
+[2017-03-15 17:34:57 +0000] [15541] [ERROR] Can't connect to ('127.0.0.1', 8001)
+[2017-03-15 17:34:59 +0000] [15610] [INFO] Starting gunicorn 19.6.0
+[2017-03-15 17:34:59 +0000] [15610] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:34:59 +0000] [15610] [ERROR] Retrying in 1 second.
+[2017-03-15 17:35:00 +0000] [15610] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:35:00 +0000] [15610] [ERROR] Retrying in 1 second.
+[2017-03-15 17:35:01 +0000] [15610] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:35:01 +0000] [15610] [ERROR] Retrying in 1 second.
+[2017-03-15 17:35:02 +0000] [15610] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:35:02 +0000] [15610] [ERROR] Retrying in 1 second.
+[2017-03-15 17:35:03 +0000] [15610] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:35:03 +0000] [15610] [ERROR] Retrying in 1 second.
+[2017-03-15 17:35:04 +0000] [15610] [ERROR] Can't connect to ('127.0.0.1', 8001)
+[2017-03-15 17:35:06 +0000] [15624] [INFO] Starting gunicorn 19.6.0
+[2017-03-15 17:35:06 +0000] [15624] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:35:06 +0000] [15624] [ERROR] Retrying in 1 second.
+[2017-03-15 17:35:07 +0000] [15624] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:35:07 +0000] [15624] [ERROR] Retrying in 1 second.
+[2017-03-15 17:35:08 +0000] [15624] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:35:08 +0000] [15624] [ERROR] Retrying in 1 second.
+[2017-03-15 17:35:09 +0000] [15624] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:35:09 +0000] [15624] [ERROR] Retrying in 1 second.
+[2017-03-15 17:35:10 +0000] [15624] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:35:10 +0000] [15624] [ERROR] Retrying in 1 second.
+[2017-03-15 17:35:11 +0000] [15624] [ERROR] Can't connect to ('127.0.0.1', 8001)
+[2017-03-15 17:35:12 +0000] [15666] [INFO] Starting gunicorn 19.6.0
+[2017-03-15 17:35:12 +0000] [15666] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:35:12 +0000] [15666] [ERROR] Retrying in 1 second.
+[2017-03-15 17:35:13 +0000] [15666] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:35:13 +0000] [15666] [ERROR] Retrying in 1 second.
+[2017-03-15 17:35:14 +0000] [15666] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:35:14 +0000] [15666] [ERROR] Retrying in 1 second.
+[2017-03-15 17:35:15 +0000] [15666] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:35:15 +0000] [15666] [ERROR] Retrying in 1 second.
+[2017-03-15 17:35:16 +0000] [15666] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:35:16 +0000] [15666] [ERROR] Retrying in 1 second.
+[2017-03-15 17:35:17 +0000] [15666] [ERROR] Can't connect to ('127.0.0.1', 8001)
+[2017-03-15 17:35:19 +0000] [15670] [INFO] Starting gunicorn 19.6.0
+[2017-03-15 17:35:19 +0000] [15670] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:35:19 +0000] [15670] [ERROR] Retrying in 1 second.
+[2017-03-15 17:35:20 +0000] [15670] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:35:20 +0000] [15670] [ERROR] Retrying in 1 second.
+[2017-03-15 17:35:21 +0000] [15670] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:35:21 +0000] [15670] [ERROR] Retrying in 1 second.
+[2017-03-15 17:35:22 +0000] [15670] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:35:22 +0000] [15670] [ERROR] Retrying in 1 second.
+[2017-03-15 17:35:23 +0000] [15670] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:35:23 +0000] [15670] [ERROR] Retrying in 1 second.
+[2017-03-15 17:35:24 +0000] [15670] [ERROR] Can't connect to ('127.0.0.1', 8001)
+[2017-03-15 17:35:26 +0000] [15714] [INFO] Starting gunicorn 19.6.0
+[2017-03-15 17:35:26 +0000] [15714] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:35:26 +0000] [15714] [ERROR] Retrying in 1 second.
+[2017-03-15 17:35:27 +0000] [15714] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:35:27 +0000] [15714] [ERROR] Retrying in 1 second.
+[2017-03-15 17:35:28 +0000] [15714] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:35:28 +0000] [15714] [ERROR] Retrying in 1 second.
+[2017-03-15 17:35:29 +0000] [15714] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:35:29 +0000] [15714] [ERROR] Retrying in 1 second.
+[2017-03-15 17:35:30 +0000] [15714] [ERROR] Connection in use: ('127.0.0.1', 8001)
+[2017-03-15 17:35:30 +0000] [15714] [ERROR] Retrying in 1 second.
+[2017-03-15 17:35:33 +0000] [15721] [INFO] Starting gunicorn 19.6.0
+[2017-03-15 17:35:33 +0000] [15721] [INFO] Listening at: http://127.0.0.1:8001 (15721)
+[2017-03-15 17:35:33 +0000] [15721] [INFO] Using worker: sync
+[2017-03-15 17:35:33 +0000] [15726] [INFO] Booting worker with pid: 15726
+/home/dustin/miniconda3/lib/python3.5/site-packages/flask_sqlalchemy/__init__.py:800: UserWarning: SQLALCHEMY_TRACK_MODIFICATIONS adds significant overhead and will be disabled by default in the future.  Set it to True to suppress this warning.
+  warnings.warn('SQLALCHEMY_TRACK_MODIFICATIONS adds significant overhead and will be disabled by default in the future.  Set it to True to suppress this warning.')
+[2017-03-15 17:35:35,985] ERROR in app: Exception on /nodes_seen/80:19:34:b8:bc:1c [GET]
+Traceback (most recent call last):
+  File "/home/dustin/miniconda3/lib/python3.5/site-packages/flask/app.py", line 1988, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/dustin/miniconda3/lib/python3.5/site-packages/flask/app.py", line 1641, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/dustin/miniconda3/lib/python3.5/site-packages/flask/app.py", line 1544, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/dustin/miniconda3/lib/python3.5/site-packages/flask/_compat.py", line 33, in reraise
+    raise value
+  File "/home/dustin/miniconda3/lib/python3.5/site-packages/flask/app.py", line 1639, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/dustin/miniconda3/lib/python3.5/site-packages/flask/app.py", line 1625, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/var/www/sites/ncompass-node/app.py", line 130, in nodes_seen
+    nodes_seen.push(probe.node_mac)
+AttributeError: 'list' object has no attribute 'push'
+[2017-03-15 17:35:36,464] ERROR in app: Exception on /nodes_seen/80:19:34:b8:bc:1c [GET]
+Traceback (most recent call last):
+  File "/home/dustin/miniconda3/lib/python3.5/site-packages/flask/app.py", line 1988, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/dustin/miniconda3/lib/python3.5/site-packages/flask/app.py", line 1641, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/dustin/miniconda3/lib/python3.5/site-packages/flask/app.py", line 1544, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/dustin/miniconda3/lib/python3.5/site-packages/flask/_compat.py", line 33, in reraise
+    raise value
+  File "/home/dustin/miniconda3/lib/python3.5/site-packages/flask/app.py", line 1639, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/dustin/miniconda3/lib/python3.5/site-packages/flask/app.py", line 1625, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/var/www/sites/ncompass-node/app.py", line 130, in nodes_seen
+    nodes_seen.push(probe.node_mac)
+AttributeError: 'list' object has no attribute 'push'
+[2017-03-15 17:35:40,678] ERROR in app: Exception on /recieve [POST]
+Traceback (most recent call last):
+  File "/home/dustin/miniconda3/lib/python3.5/site-packages/flask/app.py", line 1988, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/dustin/miniconda3/lib/python3.5/site-packages/flask/app.py", line 1641, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/dustin/miniconda3/lib/python3.5/site-packages/flask/app.py", line 1544, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/dustin/miniconda3/lib/python3.5/site-packages/flask/_compat.py", line 33, in reraise
+    raise value
+  File "/home/dustin/miniconda3/lib/python3.5/site-packages/flask/app.py", line 1639, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/dustin/miniconda3/lib/python3.5/site-packages/flask/app.py", line 1625, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/var/www/sites/ncompass-node/app.py", line 73, in recieve
+    parsed_json = json.loads(json_string)
+  File "/home/dustin/miniconda3/lib/python3.5/json/__init__.py", line 312, in loads
+    s.__class__.__name__))
+TypeError: the JSON object must be str, not 'bytes'
+[2017-03-15 17:35:46,649] ERROR in app: Exception on /nodes_seen/80:19:34:b8:bc:1c [GET]
+Traceback (most recent call last):
+  File "/home/dustin/miniconda3/lib/python3.5/site-packages/flask/app.py", line 1988, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/dustin/miniconda3/lib/python3.5/site-packages/flask/app.py", line 1641, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/dustin/miniconda3/lib/python3.5/site-packages/flask/app.py", line 1544, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/dustin/miniconda3/lib/python3.5/site-packages/flask/_compat.py", line 33, in reraise
+    raise value
+  File "/home/dustin/miniconda3/lib/python3.5/site-packages/flask/app.py", line 1639, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/dustin/miniconda3/lib/python3.5/site-packages/flask/app.py", line 1625, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/var/www/sites/ncompass-node/app.py", line 130, in nodes_seen
+    nodes_seen.push(probe.node_mac)
+AttributeError: 'list' object has no attribute 'push'
+[2017-03-15 17:35:55,004] ERROR in app: Exception on /recieve [POST]
+Traceback (most recent call last):
+  File "/home/dustin/miniconda3/lib/python3.5/site-packages/flask/app.py", line 1988, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/dustin/miniconda3/lib/python3.5/site-packages/flask/app.py", line 1641, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/dustin/miniconda3/lib/python3.5/site-packages/flask/app.py", line 1544, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/dustin/miniconda3/lib/python3.5/site-packages/flask/_compat.py", line 33, in reraise
+    raise value
+  File "/home/dustin/miniconda3/lib/python3.5/site-packages/flask/app.py", line 1639, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/dustin/miniconda3/lib/python3.5/site-packages/flask/app.py", line 1625, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/var/www/sites/ncompass-node/app.py", line 73, in recieve
+    parsed_json = json.loads(json_string)
+  File "/home/dustin/miniconda3/lib/python3.5/json/__init__.py", line 312, in loads
+    s.__class__.__name__))
+TypeError: the JSON object must be str, not 'bytes'
+[2017-03-15 17:35:55,498] ERROR in app: Exception on /nodes_seen/80:19:34:b8:bc:1c [GET]
+Traceback (most recent call last):
+  File "/home/dustin/miniconda3/lib/python3.5/site-packages/flask/app.py", line 1988, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/dustin/miniconda3/lib/python3.5/site-packages/flask/app.py", line 1641, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/dustin/miniconda3/lib/python3.5/site-packages/flask/app.py", line 1544, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/dustin/miniconda3/lib/python3.5/site-packages/flask/_compat.py", line 33, in reraise
+    raise value
+  File "/home/dustin/miniconda3/lib/python3.5/site-packages/flask/app.py", line 1639, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/dustin/miniconda3/lib/python3.5/site-packages/flask/app.py", line 1625, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/var/www/sites/ncompass-node/app.py", line 130, in nodes_seen
+    nodes_seen.push(probe.node_mac)
+AttributeError: 'list' object has no attribute 'push'
+[2017-03-15 17:35:56,121] ERROR in app: Exception on /nodes_seen/80:19:34:b8:bc:1c [GET]
+Traceback (most recent call last):
+  File "/home/dustin/miniconda3/lib/python3.5/site-packages/flask/app.py", line 1988, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/dustin/miniconda3/lib/python3.5/site-packages/flask/app.py", line 1641, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/dustin/miniconda3/lib/python3.5/site-packages/flask/app.py", line 1544, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/dustin/miniconda3/lib/python3.5/site-packages/flask/_compat.py", line 33, in reraise
+    raise value
+  File "/home/dustin/miniconda3/lib/python3.5/site-packages/flask/app.py", line 1639, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/dustin/miniconda3/lib/python3.5/site-packages/flask/app.py", line 1625, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/var/www/sites/ncompass-node/app.py", line 130, in nodes_seen
+    nodes_seen.push(probe.node_mac)
+AttributeError: 'list' object has no attribute 'push'
+[2017-03-15 17:35:56,679] ERROR in app: Exception on /nodes_seen/80:19:34:b8:bc:1c [GET]
+Traceback (most recent call last):
+  File "/home/dustin/miniconda3/lib/python3.5/site-packages/flask/app.py", line 1988, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/dustin/miniconda3/lib/python3.5/site-packages/flask/app.py", line 1641, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/dustin/miniconda3/lib/python3.5/site-packages/flask/app.py", line 1544, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/dustin/miniconda3/lib/python3.5/site-packages/flask/_compat.py", line 33, in reraise
+    raise value
+  File "/home/dustin/miniconda3/lib/python3.5/site-packages/flask/app.py", line 1639, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/dustin/miniconda3/lib/python3.5/site-packages/flask/app.py", line 1625, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/var/www/sites/ncompass-node/app.py", line 130, in nodes_seen
+    nodes_seen.push(probe.node_mac)
+AttributeError: 'list' object has no attribute 'push'
+[2017-03-15 17:36:00 +0000] [15775] [INFO] Starting gunicorn 19.6.0
+[2017-03-15 17:36:00 +0000] [15775] [INFO] Listening at: http://127.0.0.1:8001 (15775)
+[2017-03-15 17:36:00 +0000] [15775] [INFO] Using worker: sync
+[2017-03-15 17:36:00 +0000] [15781] [INFO] Booting worker with pid: 15781
+/home/dustin/miniconda3/lib/python3.5/site-packages/flask_sqlalchemy/__init__.py:800: UserWarning: SQLALCHEMY_TRACK_MODIFICATIONS adds significant overhead and will be disabled by default in the future.  Set it to True to suppress this warning.
+  warnings.warn('SQLALCHEMY_TRACK_MODIFICATIONS adds significant overhead and will be disabled by default in the future.  Set it to True to suppress this warning.')
+[2017-03-15 17:36:02,713] ERROR in app: Exception on /nodes_seen/80:19:34:b8:bc:1c [GET]
+Traceback (most recent call last):
+  File "/home/dustin/miniconda3/lib/python3.5/site-packages/flask/app.py", line 1988, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/dustin/miniconda3/lib/python3.5/site-packages/flask/app.py", line 1641, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/dustin/miniconda3/lib/python3.5/site-packages/flask/app.py", line 1544, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/dustin/miniconda3/lib/python3.5/site-packages/flask/_compat.py", line 33, in reraise
+    raise value
+  File "/home/dustin/miniconda3/lib/python3.5/site-packages/flask/app.py", line 1639, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/dustin/miniconda3/lib/python3.5/site-packages/flask/app.py", line 1625, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/var/www/sites/ncompass-node/app.py", line 130, in nodes_seen
+    nodes_seen.push(probe.node_mac)
+AttributeError: 'list' object has no attribute 'push'
+[2017-03-15 17:36:02,811] ERROR in app: Exception on /nodes_seen/80:19:34:b8:bc:1c [GET]
+Traceback (most recent call last):
+  File "/home/dustin/miniconda3/lib/python3.5/site-packages/flask/app.py", line 1988, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/dustin/miniconda3/lib/python3.5/site-packages/flask/app.py", line 1641, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/dustin/miniconda3/lib/python3.5/site-packages/flask/app.py", line 1544, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/dustin/miniconda3/lib/python3.5/site-packages/flask/_compat.py", line 33, in reraise
+    raise value
+  File "/home/dustin/miniconda3/lib/python3.5/site-packages/flask/app.py", line 1639, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/dustin/miniconda3/lib/python3.5/site-packages/flask/app.py", line 1625, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/var/www/sites/ncompass-node/app.py", line 130, in nodes_seen
+    nodes_seen.push(probe.node_mac)
+AttributeError: 'list' object has no attribute 'push'
+[2017-03-15 17:36:10,352] ERROR in app: Exception on /recieve [POST]
+Traceback (most recent call last):
+  File "/home/dustin/miniconda3/lib/python3.5/site-packages/flask/app.py", line 1988, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/dustin/miniconda3/lib/python3.5/site-packages/flask/app.py", line 1641, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/dustin/miniconda3/lib/python3.5/site-packages/flask/app.py", line 1544, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/dustin/miniconda3/lib/python3.5/site-packages/flask/_compat.py", line 33, in reraise
+    raise value
+  File "/home/dustin/miniconda3/lib/python3.5/site-packages/flask/app.py", line 1639, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/dustin/miniconda3/lib/python3.5/site-packages/flask/app.py", line 1625, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/var/www/sites/ncompass-node/app.py", line 73, in recieve
+    parsed_json = json.loads(json_string)
+  File "/home/dustin/miniconda3/lib/python3.5/json/__init__.py", line 312, in loads
+    s.__class__.__name__))
+TypeError: the JSON object must be str, not 'bytes'
+[2017-03-15 17:36:24,880] ERROR in app: Exception on /recieve [POST]
+Traceback (most recent call last):
+  File "/home/dustin/miniconda3/lib/python3.5/site-packages/flask/app.py", line 1988, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/dustin/miniconda3/lib/python3.5/site-packages/flask/app.py", line 1641, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/dustin/miniconda3/lib/python3.5/site-packages/flask/app.py", line 1544, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/dustin/miniconda3/lib/python3.5/site-packages/flask/_compat.py", line 33, in reraise
+    raise value
+  File "/home/dustin/miniconda3/lib/python3.5/site-packages/flask/app.py", line 1639, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/dustin/miniconda3/lib/python3.5/site-packages/flask/app.py", line 1625, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/var/www/sites/ncompass-node/app.py", line 73, in recieve
+    parsed_json = json.loads(json_string)
+  File "/home/dustin/miniconda3/lib/python3.5/json/__init__.py", line 312, in loads
+    s.__class__.__name__))
+TypeError: the JSON object must be str, not 'bytes'
+[2017-03-15 17:36:40,127] ERROR in app: Exception on /recieve [POST]
+Traceback (most recent call last):
+  File "/home/dustin/miniconda3/lib/python3.5/site-packages/flask/app.py", line 1988, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/dustin/miniconda3/lib/python3.5/site-packages/flask/app.py", line 1641, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/dustin/miniconda3/lib/python3.5/site-packages/flask/app.py", line 1544, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/dustin/miniconda3/lib/python3.5/site-packages/flask/_compat.py", line 33, in reraise
+    raise value
+  File "/home/dustin/miniconda3/lib/python3.5/site-packages/flask/app.py", line 1639, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/dustin/miniconda3/lib/python3.5/site-packages/flask/app.py", line 1625, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/var/www/sites/ncompass-node/app.py", line 73, in recieve
+    parsed_json = json.loads(json_string)
+  File "/home/dustin/miniconda3/lib/python3.5/json/__init__.py", line 312, in loads
+    s.__class__.__name__))
+TypeError: the JSON object must be str, not 'bytes'
+[2017-03-15 17:36:54,568] ERROR in app: Exception on /recieve [POST]
+Traceback (most recent call last):
+  File "/home/dustin/miniconda3/lib/python3.5/site-packages/flask/app.py", line 1988, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/dustin/miniconda3/lib/python3.5/site-packages/flask/app.py", line 1641, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/dustin/miniconda3/lib/python3.5/site-packages/flask/app.py", line 1544, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/dustin/miniconda3/lib/python3.5/site-packages/flask/_compat.py", line 33, in reraise
+    raise value
+  File "/home/dustin/miniconda3/lib/python3.5/site-packages/flask/app.py", line 1639, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/dustin/miniconda3/lib/python3.5/site-packages/flask/app.py", line 1625, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/var/www/sites/ncompass-node/app.py", line 73, in recieve
+    parsed_json = json.loads(json_string)
+  File "/home/dustin/miniconda3/lib/python3.5/json/__init__.py", line 312, in loads
+    s.__class__.__name__))
+TypeError: the JSON object must be str, not 'bytes'
+[2017-03-15 17:37:10,470] ERROR in app: Exception on /recieve [POST]
+Traceback (most recent call last):
+  File "/home/dustin/miniconda3/lib/python3.5/site-packages/flask/app.py", line 1988, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/dustin/miniconda3/lib/python3.5/site-packages/flask/app.py", line 1641, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/dustin/miniconda3/lib/python3.5/site-packages/flask/app.py", line 1544, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/dustin/miniconda3/lib/python3.5/site-packages/flask/_compat.py", line 33, in reraise
+    raise value
+  File "/home/dustin/miniconda3/lib/python3.5/site-packages/flask/app.py", line 1639, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/dustin/miniconda3/lib/python3.5/site-packages/flask/app.py", line 1625, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/var/www/sites/ncompass-node/app.py", line 73, in recieve
+    parsed_json = json.loads(json_string)
+  File "/home/dustin/miniconda3/lib/python3.5/json/__init__.py", line 312, in loads
+    s.__class__.__name__))
+TypeError: the JSON object must be str, not 'bytes'
+[2017-03-15 17:37:24,758] ERROR in app: Exception on /recieve [POST]
+Traceback (most recent call last):
+  File "/home/dustin/miniconda3/lib/python3.5/site-packages/flask/app.py", line 1988, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/dustin/miniconda3/lib/python3.5/site-packages/flask/app.py", line 1641, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/dustin/miniconda3/lib/python3.5/site-packages/flask/app.py", line 1544, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/dustin/miniconda3/lib/python3.5/site-packages/flask/_compat.py", line 33, in reraise
+    raise value
+  File "/home/dustin/miniconda3/lib/python3.5/site-packages/flask/app.py", line 1639, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/dustin/miniconda3/lib/python3.5/site-packages/flask/app.py", line 1625, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/var/www/sites/ncompass-node/app.py", line 73, in recieve
+    parsed_json = json.loads(json_string)
+  File "/home/dustin/miniconda3/lib/python3.5/json/__init__.py", line 312, in loads
+    s.__class__.__name__))
+TypeError: the JSON object must be str, not 'bytes'
+[2017-03-15 17:37:40,568] ERROR in app: Exception on /recieve [POST]
+Traceback (most recent call last):
+  File "/home/dustin/miniconda3/lib/python3.5/site-packages/flask/app.py", line 1988, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/dustin/miniconda3/lib/python3.5/site-packages/flask/app.py", line 1641, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/dustin/miniconda3/lib/python3.5/site-packages/flask/app.py", line 1544, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/dustin/miniconda3/lib/python3.5/site-packages/flask/_compat.py", line 33, in reraise
+    raise value
+  File "/home/dustin/miniconda3/lib/python3.5/site-packages/flask/app.py", line 1639, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/dustin/miniconda3/lib/python3.5/site-packages/flask/app.py", line 1625, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/var/www/sites/ncompass-node/app.py", line 73, in recieve
+    parsed_json = json.loads(json_string)
+  File "/home/dustin/miniconda3/lib/python3.5/json/__init__.py", line 312, in loads
+    s.__class__.__name__))
+TypeError: the JSON object must be str, not 'bytes'
+[2017-03-15 17:37:55,547] ERROR in app: Exception on /recieve [POST]
+Traceback (most recent call last):
+  File "/home/dustin/miniconda3/lib/python3.5/site-packages/flask/app.py", line 1988, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/dustin/miniconda3/lib/python3.5/site-packages/flask/app.py", line 1641, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/dustin/miniconda3/lib/python3.5/site-packages/flask/app.py", line 1544, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/dustin/miniconda3/lib/python3.5/site-packages/flask/_compat.py", line 33, in reraise
+    raise value
+  File "/home/dustin/miniconda3/lib/python3.5/site-packages/flask/app.py", line 1639, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/dustin/miniconda3/lib/python3.5/site-packages/flask/app.py", line 1625, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/var/www/sites/ncompass-node/app.py", line 73, in recieve
+    parsed_json = json.loads(json_string)
+  File "/home/dustin/miniconda3/lib/python3.5/json/__init__.py", line 312, in loads
+    s.__class__.__name__))
+TypeError: the JSON object must be str, not 'bytes'
+[2017-03-15 17:38:10,335] ERROR in app: Exception on /recieve [POST]
+Traceback (most recent call last):
+  File "/home/dustin/miniconda3/lib/python3.5/site-packages/flask/app.py", line 1988, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/dustin/miniconda3/lib/python3.5/site-packages/flask/app.py", line 1641, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/dustin/miniconda3/lib/python3.5/site-packages/flask/app.py", line 1544, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/dustin/miniconda3/lib/python3.5/site-packages/flask/_compat.py", line 33, in reraise
+    raise value
+  File "/home/dustin/miniconda3/lib/python3.5/site-packages/flask/app.py", line 1639, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/dustin/miniconda3/lib/python3.5/site-packages/flask/app.py", line 1625, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/var/www/sites/ncompass-node/app.py", line 73, in recieve
+    parsed_json = json.loads(json_string)
+  File "/home/dustin/miniconda3/lib/python3.5/json/__init__.py", line 312, in loads
+    s.__class__.__name__))
+TypeError: the JSON object must be str, not 'bytes'
+[2017-03-15 17:38:24,223] ERROR in app: Exception on /recieve [POST]
+Traceback (most recent call last):
+  File "/home/dustin/miniconda3/lib/python3.5/site-packages/flask/app.py", line 1988, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/dustin/miniconda3/lib/python3.5/site-packages/flask/app.py", line 1641, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/dustin/miniconda3/lib/python3.5/site-packages/flask/app.py", line 1544, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/dustin/miniconda3/lib/python3.5/site-packages/flask/_compat.py", line 33, in reraise
+    raise value
+  File "/home/dustin/miniconda3/lib/python3.5/site-packages/flask/app.py", line 1639, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/dustin/miniconda3/lib/python3.5/site-packages/flask/app.py", line 1625, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/var/www/sites/ncompass-node/app.py", line 73, in recieve
+    parsed_json = json.loads(json_string)
+  File "/home/dustin/miniconda3/lib/python3.5/json/__init__.py", line 312, in loads
+    s.__class__.__name__))
+TypeError: the JSON object must be str, not 'bytes'
+[2017-03-15 17:38:40,404] ERROR in app: Exception on /recieve [POST]
+Traceback (most recent call last):
+  File "/home/dustin/miniconda3/lib/python3.5/site-packages/flask/app.py", line 1988, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/dustin/miniconda3/lib/python3.5/site-packages/flask/app.py", line 1641, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/dustin/miniconda3/lib/python3.5/site-packages/flask/app.py", line 1544, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/dustin/miniconda3/lib/python3.5/site-packages/flask/_compat.py", line 33, in reraise
+    raise value
+  File "/home/dustin/miniconda3/lib/python3.5/site-packages/flask/app.py", line 1639, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/dustin/miniconda3/lib/python3.5/site-packages/flask/app.py", line 1625, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/var/www/sites/ncompass-node/app.py", line 73, in recieve
+    parsed_json = json.loads(json_string)
+  File "/home/dustin/miniconda3/lib/python3.5/json/__init__.py", line 312, in loads
+    s.__class__.__name__))
+TypeError: the JSON object must be str, not 'bytes'
+[2017-03-15 17:38:54,028] ERROR in app: Exception on /recieve [POST]
+Traceback (most recent call last):
+  File "/home/dustin/miniconda3/lib/python3.5/site-packages/flask/app.py", line 1988, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/dustin/miniconda3/lib/python3.5/site-packages/flask/app.py", line 1641, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/dustin/miniconda3/lib/python3.5/site-packages/flask/app.py", line 1544, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/dustin/miniconda3/lib/python3.5/site-packages/flask/_compat.py", line 33, in reraise
+    raise value
+  File "/home/dustin/miniconda3/lib/python3.5/site-packages/flask/app.py", line 1639, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/dustin/miniconda3/lib/python3.5/site-packages/flask/app.py", line 1625, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/var/www/sites/ncompass-node/app.py", line 73, in recieve
+    parsed_json = json.loads(json_string)
+  File "/home/dustin/miniconda3/lib/python3.5/json/__init__.py", line 312, in loads
+    s.__class__.__name__))
+TypeError: the JSON object must be str, not 'bytes'
+[2017-03-15 17:39:10,016] ERROR in app: Exception on /recieve [POST]
+Traceback (most recent call last):
+  File "/home/dustin/miniconda3/lib/python3.5/site-packages/flask/app.py", line 1988, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/dustin/miniconda3/lib/python3.5/site-packages/flask/app.py", line 1641, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/dustin/miniconda3/lib/python3.5/site-packages/flask/app.py", line 1544, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/dustin/miniconda3/lib/python3.5/site-packages/flask/_compat.py", line 33, in reraise
+    raise value
+  File "/home/dustin/miniconda3/lib/python3.5/site-packages/flask/app.py", line 1639, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/dustin/miniconda3/lib/python3.5/site-packages/flask/app.py", line 1625, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/var/www/sites/ncompass-node/app.py", line 73, in recieve
+    parsed_json = json.loads(json_string)
+  File "/home/dustin/miniconda3/lib/python3.5/json/__init__.py", line 312, in loads
+    s.__class__.__name__))
+TypeError: the JSON object must be str, not 'bytes'
+[2017-03-15 17:39:26 +0000] [16324] [INFO] Starting gunicorn 19.6.0
+[2017-03-15 17:39:26 +0000] [16324] [INFO] Listening at: http://127.0.0.1:8001 (16324)
+[2017-03-15 17:39:26 +0000] [16324] [INFO] Using worker: sync
+[2017-03-15 17:39:26 +0000] [16330] [INFO] Booting worker with pid: 16330
+/home/dustin/miniconda3/lib/python3.5/site-packages/flask_sqlalchemy/__init__.py:800: UserWarning: SQLALCHEMY_TRACK_MODIFICATIONS adds significant overhead and will be disabled by default in the future.  Set it to True to suppress this warning.
+  warnings.warn('SQLALCHEMY_TRACK_MODIFICATIONS adds significant overhead and will be disabled by default in the future.  Set it to True to suppress this warning.')
+[2017-03-15 17:39:27,894] ERROR in app: Exception on /nodes_seen/80:19:34:b8:bc:1c [GET]
+Traceback (most recent call last):
+  File "/home/dustin/miniconda3/lib/python3.5/site-packages/flask/app.py", line 1988, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/dustin/miniconda3/lib/python3.5/site-packages/flask/app.py", line 1641, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/dustin/miniconda3/lib/python3.5/site-packages/flask/app.py", line 1544, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/dustin/miniconda3/lib/python3.5/site-packages/flask/_compat.py", line 33, in reraise
+    raise value
+  File "/home/dustin/miniconda3/lib/python3.5/site-packages/flask/app.py", line 1639, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/dustin/miniconda3/lib/python3.5/site-packages/flask/app.py", line 1625, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/var/www/sites/ncompass-node/app.py", line 130, in nodes_seen
+    nodes_seen.push(probe.node_mac)
+AttributeError: 'list' object has no attribute 'push'
+[2017-03-15 17:39:28,521] ERROR in app: Exception on /nodes_seen/80:19:34:b8:bc:1c [GET]
+Traceback (most recent call last):
+  File "/home/dustin/miniconda3/lib/python3.5/site-packages/flask/app.py", line 1988, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/dustin/miniconda3/lib/python3.5/site-packages/flask/app.py", line 1641, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/dustin/miniconda3/lib/python3.5/site-packages/flask/app.py", line 1544, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/dustin/miniconda3/lib/python3.5/site-packages/flask/_compat.py", line 33, in reraise
+    raise value
+  File "/home/dustin/miniconda3/lib/python3.5/site-packages/flask/app.py", line 1639, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/dustin/miniconda3/lib/python3.5/site-packages/flask/app.py", line 1625, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/var/www/sites/ncompass-node/app.py", line 130, in nodes_seen
+    nodes_seen.push(probe.node_mac)
+AttributeError: 'list' object has no attribute 'push'
+[2017-03-15 17:39:28,936] ERROR in app: Exception on /nodes_seen/80:19:34:b8:bc:1c [GET]
+Traceback (most recent call last):
+  File "/home/dustin/miniconda3/lib/python3.5/site-packages/flask/app.py", line 1988, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/dustin/miniconda3/lib/python3.5/site-packages/flask/app.py", line 1641, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/dustin/miniconda3/lib/python3.5/site-packages/flask/app.py", line 1544, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/dustin/miniconda3/lib/python3.5/site-packages/flask/_compat.py", line 33, in reraise
+    raise value
+  File "/home/dustin/miniconda3/lib/python3.5/site-packages/flask/app.py", line 1639, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/dustin/miniconda3/lib/python3.5/site-packages/flask/app.py", line 1625, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/var/www/sites/ncompass-node/app.py", line 130, in nodes_seen
+    nodes_seen.push(probe.node_mac)
+AttributeError: 'list' object has no attribute 'push'
+[2017-03-15 17:40:13 +0000] [16433] [INFO] Starting gunicorn 19.6.0
+[2017-03-15 17:40:13 +0000] [16433] [INFO] Listening at: http://127.0.0.1:8001 (16433)
+[2017-03-15 17:40:13 +0000] [16433] [INFO] Using worker: sync
+[2017-03-15 17:40:13 +0000] [16477] [INFO] Booting worker with pid: 16477
+/home/dustin/miniconda3/lib/python3.5/site-packages/flask_sqlalchemy/__init__.py:800: UserWarning: SQLALCHEMY_TRACK_MODIFICATIONS adds significant overhead and will be disabled by default in the future.  Set it to True to suppress this warning.
+  warnings.warn('SQLALCHEMY_TRACK_MODIFICATIONS adds significant overhead and will be disabled by default in the future.  Set it to True to suppress this warning.')
+[2017-03-15 17:40:15,353] ERROR in app: Exception on /nodes_seen/80:19:34:b8:bc:1c [GET]
+Traceback (most recent call last):
+  File "/home/dustin/miniconda3/lib/python3.5/site-packages/flask/app.py", line 1988, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/dustin/miniconda3/lib/python3.5/site-packages/flask/app.py", line 1642, in full_dispatch_request
+    response = self.make_response(rv)
+  File "/home/dustin/miniconda3/lib/python3.5/site-packages/flask/app.py", line 1746, in make_response
+    rv = self.response_class.force_type(rv, request.environ)
+  File "/home/dustin/miniconda3/lib/python3.5/site-packages/werkzeug/wrappers.py", line 847, in force_type
+    response = BaseResponse(*_run_wsgi_app(response, environ))
+  File "/home/dustin/miniconda3/lib/python3.5/site-packages/werkzeug/wrappers.py", line 57, in _run_wsgi_app
+    return _run_wsgi_app(*args)
+  File "/home/dustin/miniconda3/lib/python3.5/site-packages/werkzeug/test.py", line 871, in run_wsgi_app
+    app_rv = app(environ, start_response)
+TypeError: 'list' object is not callable
