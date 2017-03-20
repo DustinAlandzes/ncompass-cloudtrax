@@ -137,6 +137,109 @@ def last_seen(mac):
     #sort by last seen in ascending order
     #return first value
 
+@app.route('/macs')
+def macs():
+    macs = []
+    probes = ProbeRequest.query.all()
+    for probe in probes:
+        if probe.mac not in macs:
+            macs.append(probe.mac)
+    return render_template("macs.html", macs=macs)
+
+@app.route('/node_macs')
+def node_macs():
+    node_macs = []
+    probes = ProbeRequest.query.all()
+    for probe in probes:
+        if probe.node_mac not in node_macs:
+            node_macs.append(probe.node_mac)
+    return render_template("node_macs.html", node_macs=node_macs)
+
+from bokeh.layouts import gridplot
+from bokeh.embed import components
+from bokeh.plotting import figure, output_file, show
+from bokeh.resources import INLINE
+from bokeh.util.string import encode_utf8
+from bokeh.models import DatetimeTickFormatter
+from bokeh.resources import INLINE
+import numpy as np
+
+def datetime(x):
+    return np.array(x, dtype=np.datetime64)
+
+def rssi2meters(txPower, rssi):
+    print("hi")
+
+@app.route('/graph/<mac_address>/')
+def graph(mac_address):
+    # Grab the inputs arguments from the URL
+    args = request.args
+
+    # Get all the form arguments in the url with defaults
+    color = 'Black'
+    _from = 0
+    to = 10
+
+    fig = figure(x_axis_type="datetime", title="average signal from {}".format(mac_address))
+    fig.xaxis.axis_label = "Time"
+    fig.yaxis.axis_label = "Signal Strength"
+    fig.legend.location = "top_left"
+    fig.xaxis.formatter=DatetimeTickFormatter(
+          formats={"months": ["%B %Y"], "days": ["%B %Y"]})
+
+    #blue
+    probes = ProbeRequest.query.filter_by(mac=mac_address, node_mac="AC:86:74:5E:D2:20").all()
+    avg_signal = []
+    date = []
+    for probe in probes:
+        avg_signal.append(probe.avg_signal)
+        date.append(probe.last_seen)
+        print("{} - {}".format(probe.avg_signal, probe.last_seen))
+
+    fig.line(datetime(date), avg_signal, color="blue")
+
+    #orange
+    probes = ProbeRequest.query.filter_by(mac=mac_address, node_mac="AC:86:74:5E:D2:28").all()
+    avg_signal = []
+    date = []
+    for probe in probes:
+        avg_signal.append(probe.avg_signal)
+        date.append(probe.last_seen)
+        print("{} - {}".format(probe.avg_signal, probe.last_seen))
+
+    fig.line(datetime(date), avg_signal, color="orange")
+
+    js_resources = INLINE.render_js()
+    css_resources = INLINE.render_css()
+
+    script, div = components(fig)
+    html = render_template(
+        'embed.html',
+        plot_script=script,
+        plot_div=div,
+        js_resources=js_resources,
+        css_resources=css_resources,
+        color=color,
+        _from=_from,
+        to=to
+    )
+
+    return encode_utf8(html)
+
+
+from datetime import datetime, timedelta
+
+@app.route("/dwellTime/<mac_address>/")
+def dwellTime(mac_address):
+    start_time = datetime.now()
+    last_time = datetime.now() + timedelta(days=-1)
+    probes = ProbeRequest.query.filter(ProbeRequest.first_seen >= start_time).filter(ProbeRequest.last_seen <= last_time).order_by(ProbeRequest.first_seen).all()
+    return probes[0].first_seen
+    first_time = arrow.get(probes[0].first_seen)
+    last_time = arrow.get(probes[-1].last_seen)
+    dwell_time = last_time - first_time
+
+    return dwell_time
 # this code only executes if file is run directly
 if __name__ == "__main__":
     # creates database with models
