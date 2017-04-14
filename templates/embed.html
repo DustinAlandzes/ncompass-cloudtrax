@@ -15,13 +15,13 @@
   </head>
   <body>
     <!-- A simple form for changing the graph -->
-    <p> Select your settings: </p>
-    <form name="mac_selecter" method='GET'>
+    <p> Mac Address: </p>
+    <form name="mac_selecter" method='GET' action="">
         <input type="text" name="mac_address">
         <br>
         <button type="submit">Submit</button>
     </form>
     {{ plot_div|indent(4)|safe }}
-    <p> Demonstrates some very simple embedding into a webpage</p>
+    <p> signal strength recieved by orange and blue nodes from this mac address</p>
   </body>
 </html>

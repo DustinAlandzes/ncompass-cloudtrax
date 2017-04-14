@@ -68,16 +68,32 @@ def show():
 # store ProbeRequests from Cloudtrax
 @app.route('/recieve', methods=['POST'])
 def recieve():
+    from influxdb import InfluxDBClient
     # get json that cloudtrax HTTP POST'd to this URL
     json_string = request.data
     parsed_json = json.loads(json_string.decode())
-
     # loop through probe_requests
     for probe in parsed_json['probe_requests']:
+        influx_json = [
+        {
+            "measurement": "rssi",
+            "tags": {
+                "client_mac": probe['mac'],
+                "node_mac": parsed_json['node_mac'],
+            },
+            "time": probe['first_seen'],
+            "fields": {
+                "min_signal": probe["min_signal"],
+                "avg_signal": probe["avg_signal"],
+                "max_signal": probe["max_signal"],
+            }
+        }
+    ]
+        client = InfluxDBClient('monitor.n-compass.tv', 8086, 'dustin', 'Adsubm1t!', 'cloudtrax')
+        client.write_points(influx_json)
         # create new ProbeRequest row
         probe = ProbeRequest(parsed_json['network_id'], parsed_json['node_mac'], probe['mac'], probe['count'], probe['min_signal'], probe['max_signal'], probe['avg_signal'], probe['first_seen'], probe['last_seen'], probe['associated'])
         db.session.add(probe)
-
     # commit db changes
     db.session.commit()
 
@@ -189,25 +205,28 @@ def graph(mac_address):
 
     #blue
     probes = ProbeRequest.query.filter_by(mac=mac_address, node_mac="AC:86:74:5E:D2:20").all()
-    avg_signal = []
-    date = []
+    y = []
+    x = []
+
     for probe in probes:
-        avg_signal.append(probe.avg_signal)
-        date.append(probe.last_seen)
+        y.append(int(probe.avg_signal))
+        x.append(int(probe.last_seen))
         print("{} - {}".format(probe.avg_signal, probe.last_seen))
 
-    fig.line(datetime(date), avg_signal, color="blue")
+    x = np.array(x, dtype='i8').view('datetime64[ms]').tolist()
+
+    fig.line(x, y, color="blue")
 
     #orange
     probes = ProbeRequest.query.filter_by(mac=mac_address, node_mac="AC:86:74:5E:D2:28").all()
     avg_signal = []
     date = []
     for probe in probes:
-        avg_signal.append(probe.avg_signal)
-        date.append(probe.last_seen)
+        avg_signal.append(int(probe.avg_signal))
+        date.append(int(probe.last_seen))
         print("{} - {}".format(probe.avg_signal, probe.last_seen))
-
-    fig.line(datetime(date), avg_signal, color="orange")
+    x = np.array(date, dtype='i8').view('datetime64[ms]').tolist()
+    fig.line(x, avg_signal, color="orange")
 
     js_resources = INLINE.render_js()
     css_resources = INLINE.render_css()
@@ -240,6 +259,17 @@ def dwellTime(mac_address):
     dwell_time = last_time - first_time
 
     return dwell_time
+
+@app.route("/map/<mac_address>/")
+def map(mac_address):
+    import gmplot
+    probes = ProbeRequest.query.filter_by(mac=mac_address).all()
+    gmap = gmplot.GoogleMapPlotter(29.4829,-98.6084, 16)
+    for probe in probes:
+        gmap.circle(29.4829,-98.6084, int(probe.avg_signal), color="#ff0000", face_alpha=0.1)
+    gmap.draw("static/mymap.html")
+    return "<a href='/static/mymap.html'>map</a>"
+
 # this code only executes if file is run directly
 if __name__ == "__main__":
     # creates database with models
