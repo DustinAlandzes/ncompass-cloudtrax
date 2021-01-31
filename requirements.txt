@@ -7,7 +7,7 @@ gunicorn==19.6.0
 itsdangerous==0.24
 Jinja2==2.8
 MarkupSafe==0.23
-marshmallow==2.10.1
+marshmallow==2.15.1
 marshmallow-sqlalchemy==0.10.0
 python-dateutil==2.5.3
 six==1.10.0
